@@ -15,25 +15,7 @@ const config = {
     name: getAbsolutePath("@storybook/react-vite"),
     options: {},
   },
-
   core: {},
-
-  async viteFinal(config, { configType }) {
-    // customize the Vite config here
-    return {
-      ...config,
-      define: { "process.env": {} },
-      resolve: {
-        alias: [
-          {
-            find: "ui",
-            replacement: resolve(__dirname, "../../../packages/ui/"),
-          },
-        ],
-      },
-    };
-  },
-
   docs: {
     autodocs: true,
   },

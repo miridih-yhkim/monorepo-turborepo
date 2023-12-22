@@ -1,0 +1,43 @@
+{
+  "name": "@cpdev2/design-system",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "sideEffects": [
+    "./src/*.css.ts"
+  ],
+  "license": "MIT",
+  "files": [
+    "dist/**"
+  ],
+  "scripts": {
+    "build": "tsup --dts",
+    "build:fast": "tsup --entry src/index.ts --entry src/*.tsx",
+    "dev": "tsup --watch --dts",
+    "lint": "eslint . --max-warnings 0",
+    "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
+  },
+  "devDependencies": {
+    "@repo/eslint-config": "workspace:*",
+    "@repo/typescript-config": "workspace:*",
+    "@types/react": "^18.2.38",
+    "@types/react-dom": "^18.2.17",
+    "@vanilla-extract/css": "^1.14.0",
+    "@vanilla-extract/esbuild-plugin": "^2.3.1",
+    "@vanilla-extract/recipes": "^0.5.1",
+    "@vanilla-extract/sprinkles": "^1.6.1",
+    "eslint": "^8.54.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tsup": "^8.0.1",
+    "typescript": "^5.3.2"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "dependencies": {
+    "@vanilla-extract/dynamic": "^2.1.0",
+    "clsx": "^2.0.0"
+  }
+}
