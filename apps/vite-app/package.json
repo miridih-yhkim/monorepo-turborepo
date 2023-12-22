@@ -3,7 +3,8 @@
   "sideEffects": false,
   "scripts": {
     "start": "vite dev",
-    "build": "vite build"
+    "build": "vite build",
+    "build:fast": "vite build"
   },
   "keywords": [],
   "author": "",

@@ -6,6 +6,7 @@
     "lint": "turbo run lint",
     "clean": "turbo run clean",
     "start:vite-app": "turbo start --filter=vite-app",
+    "production:vite-app": "turbo build:fast --filter=vite-app",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "changeset": "changeset",
     "version-packages": "changeset version",

@@ -5,6 +5,10 @@
       "outputs": ["dist/**", "storybook-static/**"],
       "dependsOn": ["^build"]
     },
+    "build:fast": {
+      "outputs": ["dist/**"],
+      "dependsOn": ["^build:fast"]
+    },
     "start": {
       "dependsOn": ["^build"]
     },
