@@ -1,7 +1,7 @@
 import "@cpdev2/design-system/dist/index.css";
 import React from "react";
 import { createRoot } from "react-dom/client";
-import { CommonButton, Typography } from "@cpdev2/design-system";
+import { Typography } from "@cpdev2/design-system";
 
 const App = ({ theme }: { theme: "light" | "dark" }) => {
   const [currentTheme, setCurrentTheme] = React.useState<typeof theme>(theme);
@@ -33,21 +33,8 @@ const App = ({ theme }: { theme: "light" | "dark" }) => {
             marginTop="0"
             marginBottom="60"
           >
-            {isPending ? 'changing theme...' : "hello world"}
+            {isPending ? "changing theme..." : "hello world"}
           </Typography>
-          <CommonButton
-            display="inline-flex"
-            size="L"
-            buttonType="outline"
-            state={isPending ? "loading" : "default"}
-            onClick={() => {
-              startTransition(() => {
-                setCurrentTheme((prev) => (prev === "dark" ? "light" : "dark"));
-              });
-            }}
-          >
-            current theme: {currentTheme}
-          </CommonButton>
         </div>
       </section>
     </div>

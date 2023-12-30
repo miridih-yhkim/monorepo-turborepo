@@ -49,22 +49,26 @@ interface ButtonProps {
   shape?: CommonButtonShape;
 }
 
-export const CommonButton = forwardRef(function Button({
-  as: ElementType = "button",
-  display = "inline-flex",
-  width,
-  flex,
-  size = "XXS",
-  shape = "square",
-  buttonType = "fill",
-  buttonColor = "primary",
-  state = "default",
-  children,
-  ...props
-}) {
+export const CommonButton = forwardRef(function Button(
+  {
+    as: ElementType = "button",
+    display = "inline-flex",
+    width = "auto",
+    flex = "0 0 auto",
+    size = "XXS",
+    shape = "square",
+    buttonType = "fill",
+    buttonColor = "primary",
+    state = "default",
+    children,
+    ...props
+  },
+  ref,
+) {
   return (
     <ElementType
       {...props}
+      ref={ref}
       className={commonButton({
         display,
         size,

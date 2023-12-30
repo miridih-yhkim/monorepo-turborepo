@@ -1,4 +1,4 @@
-import { style, styleVariants } from "@vanilla-extract/css";
+import { style } from "@vanilla-extract/css";
 import { recipe } from "@vanilla-extract/recipes";
 import { atomic } from "./sprinkles.css";
 import { defaultFocusStyle } from "./utility.css";
@@ -59,7 +59,7 @@ export type CommonButtonShape =
 export const commonButton = recipe({
   base: [
     atomic({
-      all: "revert",
+      all: "unset",
       alignItems: "center",
       justifyContent: "center",
       position: "relative",
@@ -143,7 +143,7 @@ export const commonButton = recipe({
     },
     hasBorder: {
       true: {
-        border: "1px solid",
+        border: `${token(`b_border-width_10`)} solid`,
       },
     },
     stateLayer: {
