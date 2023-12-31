@@ -1,7 +1,7 @@
 import { keyframes, style } from "@vanilla-extract/css";
 import { recipe } from "@vanilla-extract/recipes";
+import { token } from "@cpdev2/primitive";
 import { atomic } from "./sprinkles.css";
-import { token } from "./token/helper";
 
 export const SpinnerSize = {
   xs: "XS",

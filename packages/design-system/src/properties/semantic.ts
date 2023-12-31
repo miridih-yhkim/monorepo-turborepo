@@ -1,4 +1,4 @@
-import { token } from "../token/helper";
+import { token } from "@cpdev2/primitive";
 
 export const baseSpacing = {
   "0": token(`b_spacing_0`),

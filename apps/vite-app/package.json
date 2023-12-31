@@ -12,6 +12,7 @@
   "author": "yhkim@miridih.com",
   "license": "ISC",
   "dependencies": {
+    "@cpdev2/primitive": "workspace:*",
     "@cpdev2/design-system": "workspace:*",
     "@cpdev2/iconography": "workspace:*",
     "react": "^18.2.0",

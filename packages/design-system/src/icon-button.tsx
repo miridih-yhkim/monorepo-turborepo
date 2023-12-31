@@ -1,5 +1,6 @@
 import React, { forwardRef } from "react";
 import type { IconUrl } from "@cpdev2/iconography";
+import { token } from "@cpdev2/primitive";
 import type { PolymorphicForwardRefComponent } from "./polymorphic";
 import {
   iconButton,
@@ -12,7 +13,6 @@ import {
 import { Spinner } from "./spinner";
 import type { SpinnerColor, SpinnerSize } from "./spinner.css";
 import { Icon } from "./icon";
-import { token } from "./token/helper";
 
 export interface IconButtonProps {
   /**

@@ -1,5 +1,6 @@
 {
   "name": "@cpdev2/iconography",
+  "private": true,
   "description": "https://www.figma.com/file/sHFxDXXHCgtpsayx5CyWKH/3.-mds.components?type=design&node-id=3474-131277&mode=design&t=ZzMO3q8wUr7OdKUp-0",
   "scripts": {
     "build": "node script/build-icons.cjs",

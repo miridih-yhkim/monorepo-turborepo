@@ -1,4 +1,5 @@
 import React, { forwardRef } from "react";
+import { token } from "@cpdev2/primitive";
 import type { PolymorphicForwardRefComponent } from "./polymorphic";
 import type {
   CommonButtonColor,
@@ -8,10 +9,12 @@ import type {
   CommonButtonType,
 } from "./common-button.css";
 import { commonButton } from "./common-button.css";
-import { token } from "./token/helper";
 
 interface ButtonProps {
-  display: "inline-flex" | "flex";
+  /**
+   * @default inline-flex
+   */
+  display?: "inline-flex" | "flex";
 
   /**
    * @default auto

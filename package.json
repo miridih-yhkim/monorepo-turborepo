@@ -1,7 +1,8 @@
 {
   "private": true,
   "scripts": {
-    "dev": "turbo run dev",
+    "dev:vite-app": "turbo run dev --filter=vite-app",
+    "build:design-system": "turbo run build --filter=@cpdev2/design-system",
     "build:vite-app": "turbo run build --filter=vite-app",
     "build:docs": "turbo run build --filter=docs",
     "lint": "turbo run lint",

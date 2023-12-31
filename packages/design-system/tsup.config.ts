@@ -6,7 +6,7 @@ export default defineConfig((options) => ({
     js: '"use client"',
   },
   entry: ["src/index.ts"],
-  format: ["cjs", "esm"],
+  format: ["esm"],
   target: ["chrome91", "firefox90", "edge91", "safari15"],
   dts: false,
   clean: true,

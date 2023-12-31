@@ -84,6 +84,9 @@ importers:
       '@cpdev2/iconography':
         specifier: workspace:*
         version: link:../../packages/iconography
+      '@cpdev2/primitive':
+        specifier: workspace:*
+        version: link:../../packages/primitive
       react:
         specifier: ^18.2.0
         version: 18.2.0
@@ -118,6 +121,9 @@ importers:
       '@cpdev2/iconography':
         specifier: workspace:*
         version: link:../iconography
+      '@cpdev2/primitive':
+        specifier: workspace:*
+        version: link:../primitive
       '@vanilla-extract/dynamic':
         specifier: ^2.1.0
         version: 2.1.0
@@ -184,6 +190,21 @@ importers:
         version: 0.6.13(eslint@8.54.0)(typescript@5.3.2)
 
   packages/iconography:
+    devDependencies:
+      '@repo/eslint-config':
+        specifier: workspace:*
+        version: link:../eslint-config
+      '@repo/typescript-config':
+        specifier: workspace:*
+        version: link:../typescript-config
+      '@types/node':
+        specifier: ^20.10.5
+        version: 20.10.5
+      typescript:
+        specifier: ^5.3.2
+        version: 5.3.2
+
+  packages/primitive:
     devDependencies:
       '@repo/eslint-config':
         specifier: workspace:*

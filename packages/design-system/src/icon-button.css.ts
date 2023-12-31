@@ -1,8 +1,8 @@
 import { recipe } from "@vanilla-extract/recipes";
 import { style } from "@vanilla-extract/css";
+import { token } from "@cpdev2/primitive";
 import { atomic } from "./sprinkles.css";
 import { defaultFocusStyle } from "./utility.css";
-import { token } from "./token/helper";
 
 export const IconButtonSize = {
   xxs: "XXS",

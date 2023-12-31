@@ -1,10 +1,12 @@
+import {
+  baseLight as blt,
+  baseDark as bdt,
+  semanticLight as slt,
+  semanticDark as sdt,
+  componentLight as clt,
+  componentDark as cdt,
+} from "@cpdev2/primitive";
 import { globalLayer, globalStyle } from "@vanilla-extract/css";
-import { baseLight as blt } from "./token/base-light";
-import { baseDark as bdt } from "./token/base-dark";
-import { semanticLight as slt } from "./token/semantic-light";
-import { semanticDark as sdt } from "./token/semantic-dark";
-import { componentLight as clt } from "./token/component-light";
-import { componentDark as cdt } from "./token/component-dark";
 
 const bizhows = globalLayer("bizhows");
 

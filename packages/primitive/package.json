@@ -1,0 +1,17 @@
+{
+  "name": "@cpdev2/primitive",
+  "private": true,
+  "type": "module",
+  "main": "index.ts",
+  "sideEffect": false,
+  "scripts": {
+    "todo:build": "echo \"dev환경에서 build할때마다, style-dictionary를 활용해서 토큰을 타입스크립트 파일로 빌드해야함.\" && exit 1"
+  },
+  "author": "yhkim@miridih.com",
+  "devDependencies": {
+    "@repo/eslint-config": "workspace:*",
+    "@repo/typescript-config": "workspace:*",
+    "typescript": "^5.3.2",
+    "@types/node": "^20.10.5"
+  }
+}

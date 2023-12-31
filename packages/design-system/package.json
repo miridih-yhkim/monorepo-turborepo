@@ -11,8 +11,8 @@
     "dist/**"
   ],
   "scripts": {
-    "dev": "tsup --watch --dts",
-    "build": "tsup --entry src/index.ts --entry src/*.tsx --clean",
+    "build": "tsup --entry src/index.ts --entry src/*.tsx --dts src/index.ts",
+    "todo:build:fast": "echo 'dev환경에서는 .d.ts를 배출하고, 실제 프로덕션 배포시에는 .d.ts를 배출하지 않는 방법을 생각하고싶다.'",
     "lint": "eslint . --max-warnings 0",
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
@@ -36,6 +36,7 @@
     "react-dom": "^18.2.0"
   },
   "dependencies": {
+    "@cpdev2/primitive": "workspace:*",
     "@cpdev2/iconography": "workspace:*",
     "@vanilla-extract/dynamic": "^2.1.0",
     "clsx": "^2.0.0"
