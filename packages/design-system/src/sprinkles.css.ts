@@ -11,6 +11,9 @@ import {
   position,
   textAlign,
   wordBreak,
+  flex,
+  verticalAlign,
+  display,
 } from "./properties/base";
 
 const properties = defineProperties({
@@ -20,7 +23,7 @@ const properties = defineProperties({
     alignItems,
     appearance: ["none", "auto"],
     boxSizing,
-    display: ["flex", "inline-flex", "none", "block"],
+    display,
     justifyContent,
     flexDirection,
     flexWrap,
@@ -31,9 +34,10 @@ const properties = defineProperties({
     overflow: ["hidden"],
     inset: ["0px"],
     padding: ["0px"],
-    flex: ["0 0 auto", "1 1 auto", "1 1 0%", "1 1 100%"],
+    flex,
     cursor,
     wordBreak,
+    verticalAlign,
   },
 });
 

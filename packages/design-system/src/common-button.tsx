@@ -68,7 +68,6 @@ export const CommonButton = forwardRef(function Button(
   return (
     <ElementType
       {...props}
-      ref={ref}
       className={commonButton({
         display,
         size,
@@ -87,6 +86,7 @@ export const CommonButton = forwardRef(function Button(
             : "notFilled",
       })}
       disabled={ElementType === "button" ? state === "disabled" : undefined}
+      ref={ref}
       style={{
         flex,
         width,

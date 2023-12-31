@@ -35,17 +35,17 @@ export const spinner = recipe({
   base: style([
     atomic({
       all: "unset",
-      display: "inline-flex",
+      display: "inline-block",
       boxSizing: "border-box",
+      verticalAlign: "middle",
+      flex: "0 0 auto",
     }),
     {
       borderStyle: "solid",
       borderRadius: "50%",
-      verticalAlign: "middle",
       animation: `${spinAnimation} ${token(
         `c_spinner_duration`,
       )} linear infinite`,
-      flex: "0 0 auto",
     },
   ]),
   variants: {

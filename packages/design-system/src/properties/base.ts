@@ -14,6 +14,9 @@ export const position = [
 ] satisfies CSSProperties["position"][];
 
 export const display = [
+  "none",
+  "contents",
+  "inline-block",
   "inline-flex",
   "flex",
 ] satisfies CSSProperties["display"][];
@@ -75,3 +78,15 @@ export const wordBreak = [
   "break-all",
   "keep-all",
 ] satisfies CSSProperties["wordBreak"][];
+
+export const flex = [
+  "0 0 auto",
+  "1 1 auto",
+  "1 1 0%",
+  "1 1 100%",
+] satisfies CSSProperties["flex"][];
+
+export const verticalAlign = [
+  "middle",
+  "top",
+] satisfies CSSProperties["verticalAlign"][];
