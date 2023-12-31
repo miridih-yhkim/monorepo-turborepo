@@ -9,9 +9,11 @@ Object.entries(rawIcons).forEach(([key, value]) => {
 /**
  * 자동으로 생성된 파일입니다. 직접적으로 수정하지마세요.
  */
-import {IconUrl} from "../../types/Asset";
-        
-export const ${key} = new IconUrl('${value}');
+import { IconUrl } from "../../types/Asset";
+
+export const ${key} = new IconUrl(
+  "${value}",
+);
 `);
 });
 
@@ -20,23 +22,23 @@ Object.entries(rawBrandIcons).forEach(([key, value]) => {
 /**
  * 자동으로 생성된 파일입니다. 직접적으로 수정하지마세요.
  */
-import {BrandLogoUrl} from "../../types/Asset";
-        
-export const ${key} = new BrandLogoUrl('${value}');
-`); 
+import { BrandLogoUrl } from "../../types/Asset";
+
+export const ${key} = new BrandLogoUrl(
+  "${value}",
+);
+`);
 })
 
 const icons = Object.keys(rawIcons).reduce((acc, key) => {
-    acc += `
-export {${key}} from './${key}';\n
-    `;
+    acc += `export {${key}} from './${key}';
+`;
     return acc;
 }, '');
 
 const brandIcons = Object.keys(rawBrandIcons).reduce((acc, key) => {
-    acc += `
-export {${key}} from './${key}';\n
-    `;
+    acc += `export {${key}} from './${key}';
+`;
     return acc;
 }, '');
 
@@ -44,6 +46,6 @@ writeFileSync(resolve(__dirname, `../src/generated/index.ts`), `
 /**
  * 자동으로 생성된 파일입니다. 직접적으로 수정하지마세요.
  */
-${icons};
-${brandIcons};
+${icons}
+${brandIcons}
 `);
