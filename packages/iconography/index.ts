@@ -1,2 +1,2 @@
 export * from "./src";
-export type { IconUrl } from "./src/Asset";
+export type { IconUrl, BrandLogoUrl } from "./types/Asset";

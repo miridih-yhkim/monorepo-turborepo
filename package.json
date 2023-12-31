@@ -1,16 +1,15 @@
 {
   "private": true,
   "scripts": {
-    "build": "turbo run build",
     "dev": "turbo run dev",
+    "build:vite-app": "turbo run build --filter=vite-app",
+    "build:docs": "turbo run build --filter=docs",
     "lint": "turbo run lint",
     "clean": "turbo run clean",
-    "start:vite-app": "turbo start --filter=vite-app",
-    "production:vite-app": "turbo build:fast --filter=vite-app",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "format": "prettier --write \"**/*.{ts,tsx,md,json}\"",
     "changeset": "changeset",
     "version-packages": "changeset version",
-    "release": "turbo run build --filter=docs^... && changeset publish"
+    "release": "turbo run build:fast --filter=docs^..."
   },
   "devDependencies": {
     "@changesets/cli": "^2.25.2",

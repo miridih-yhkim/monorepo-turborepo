@@ -97,28 +97,38 @@ export const IconButton = forwardRef(function IconButton(
   ref,
 ) {
   return (
-    <ElementType 
-    {...props}
-    className={iconButton({
-      size,
-      shape,
-      hasBorder: buttonType === 'outline' ||
-        buttonType === 'outlineBackground' ||
-        buttonType === 'outlineLight' ||
-        buttonType === 'outlineLightBackground',
-      isActive: state !== 'disabled' && state !== 'loading',
-      isLoading: state === 'loading',
-      isDisabled: state === 'disabled',
-      stateLayer: buttonType === 'fill' || buttonType === 'fillLight' ? 'filled' : 'notFilled',
-    })}
-    disabled={ElementType === 'button' ? state === 'disabled' : undefined} 
-    ref={ref}
-    style={{
-      color: token(`c_iconButton_color_contents_${buttonColor}_${buttonType}_${state}`),
-        borderColor: token(`c_iconButton_color_border_${buttonColor}_${buttonType}_${state}`),
-        background: token(`c_iconButton_color_background_${buttonColor}_${buttonType}_${state}`),
-    }}
-    type={ElementType === 'button' ? props.type ?? 'button' : undefined}
+    <ElementType
+      {...props}
+      className={iconButton({
+        size,
+        shape,
+        hasBorder:
+          buttonType === "outline" ||
+          buttonType === "outlineBackground" ||
+          buttonType === "outlineLight" ||
+          buttonType === "outlineLightBackground",
+        isActive: state !== "disabled" && state !== "loading",
+        isLoading: state === "loading",
+        isDisabled: state === "disabled",
+        stateLayer:
+          buttonType === "fill" || buttonType === "fillLight"
+            ? "filled"
+            : "notFilled",
+      })}
+      disabled={ElementType === "button" ? state === "disabled" : undefined}
+      ref={ref}
+      style={{
+        color: token(
+          `c_iconButton_color_contents_${buttonColor}_${buttonType}_${state}`,
+        ),
+        borderColor: token(
+          `c_iconButton_color_border_${buttonColor}_${buttonType}_${state}`,
+        ),
+        background: token(
+          `c_iconButton_color_background_${buttonColor}_${buttonType}_${state}`,
+        ),
+      }}
+      type={ElementType === "button" ? props.type ?? "button" : undefined}
     >
       {state === "loading" ? (
         <Spinner

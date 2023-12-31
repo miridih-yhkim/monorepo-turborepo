@@ -2,13 +2,14 @@
   "name": "vite-app",
   "sideEffects": false,
   "scripts": {
-    "start": "vite dev",
+    "dev": "vite dev",
     "build": "vite build",
-    "build:fast": "vite build"
+    "build:fast": "vite build",
+    "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "type": "module",
   "keywords": [],
-  "author": "",
+  "author": "yhkim@miridih.com",
   "license": "ISC",
   "dependencies": {
     "@cpdev2/design-system": "workspace:*",

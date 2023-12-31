@@ -15,5 +15,7 @@ export const Anatomy = {
     marginY: "60",
     children: "hello world",
     wordBreak: "break-all",
+    /* @ts-expect-error */
+    as: "p",
   },
 } satisfies StoryObj<typeof Typography>;

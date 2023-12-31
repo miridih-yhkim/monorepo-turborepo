@@ -1,1336 +1,891 @@
 {
-
   "icon_align_top": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149877_1692776404587.svg/7149877_1692776404587.svg",
-
 
   "icon_book_cover": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149919_1692776404934.svg/7149919_1692776404934.svg",
 
-
-  "icon_caret_up":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149883_1692776404598.svg/7149883_1692776404598.svg",
-
+  "icon_caret_up": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149883_1692776404598.svg/7149883_1692776404598.svg",
 
   "icon_code": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149926_1692776404960.svg/7149926_1692776404960.svg",
 
-
-  "icon_arrow_left_2px":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149899_1692776404640.svg/7149899_1692776404640.svg",
-
+  "icon_arrow_left_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149899_1692776404640.svg/7149899_1692776404640.svg",
 
   "icon_checkbox": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149905_1692776404690.svg/7149905_1692776404690.svg",
 
-
-  "icon_checkbox_checked_filled":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149940_1692776405026.svg/7149940_1692776405026.svg",
-
+  "icon_checkbox_checked_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149940_1692776405026.svg/7149940_1692776405026.svg",
 
   "icon_adjustment_2": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149871_1692776404511.svg/7149871_1692776404511.svg",
 
-
-  "icon_arrow_down_left_2px":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149925_1692776404957.svg/7149925_1692776404957.svg",
-
+  "icon_arrow_down_left_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149925_1692776404957.svg/7149925_1692776404957.svg",
 
   "icon_acrylic_goods": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149860_1692776404410.svg/7149860_1692776404410.svg",
 
-
-  "icon_chevron_double_left":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149914_1692776404864.svg/7149914_1692776404864.svg",
-
+  "icon_chevron_double_left": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149914_1692776404864.svg/7149914_1692776404864.svg",
 
   "icon_arrow_up": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149896_1692776404629.svg/7149896_1692776404629.svg",
 
-
-  "icon_all":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149889_1692776404629.svg/7149889_1692776404629.svg",
-
+  "icon_all": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149889_1692776404629.svg/7149889_1692776404629.svg",
 
   "icon_comment": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149944_1692776405048.svg/7149944_1692776405048.svg",
 
-
-  "icon_clock":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149936_1692776404999.svg/7149936_1692776404999.svg",
-
+  "icon_clock": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149936_1692776404999.svg/7149936_1692776404999.svg",
 
   "icon_approval_setting": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149874_1692776404582.svg/7149874_1692776404582.svg",
 
-
-  "icon_close":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149948_1692776405058.svg/7149948_1692776405058.svg",
-
+  "icon_close": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149948_1692776405058.svg/7149948_1692776405058.svg",
 
   "icon_banner_vertical": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149881_1692776404597.svg/7149881_1692776404597.svg",
 
-
-  "icon_copyright":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149947_1692776405053.svg/7149947_1692776405053.svg",
-
+  "icon_copyright": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149947_1692776405053.svg/7149947_1692776405053.svg",
 
   "icon_check_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149891_1692776404629.svg/7149891_1692776404629.svg",
 
-
-  "icon_arrow_left":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149907_1692776404700.svg/7149907_1692776404700.svg",
-
+  "icon_arrow_left": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149907_1692776404700.svg/7149907_1692776404700.svg",
 
   "icon_arrow_up_right": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149933_1692776404984.svg/7149933_1692776404984.svg",
 
-
-  "icon_cocktail_napkin":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149941_1692776405031.svg/7149941_1692776405031.svg",
-
+  "icon_cocktail_napkin": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149941_1692776405031.svg/7149941_1692776405031.svg",
 
   "icon_air_signboard": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149872_1692776404531.svg/7149872_1692776404531.svg",
 
-
-  "icon_coupon_bleedline":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149942_1692776405032.svg/7149942_1692776405032.svg",
-
+  "icon_coupon_bleedline": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149942_1692776405032.svg/7149942_1692776405032.svg",
 
   "icon_adjustment": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149869_1692776404495.svg/7149869_1692776404495.svg",
 
-
-  "icon_brochure_catalog":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149901_1692776404686.svg/7149901_1692776404686.svg",
-
+  "icon_brochure_catalog": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149901_1692776404686.svg/7149901_1692776404686.svg",
 
   "icon_categories": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149902_1692776404688.svg/7149902_1692776404688.svg",
 
-
-  "icon_comment_content_filled":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149943_1692776405046.svg/7149943_1692776405046.svg",
-
+  "icon_comment_content_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149943_1692776405046.svg/7149943_1692776405046.svg",
 
   "icon_align_center_vertical": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149870_1692776404497.svg/7149870_1692776404497.svg",
 
-
-  "icon_apron":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149880_1692776404597.svg/7149880_1692776404597.svg",
-
+  "icon_apron": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149880_1692776404597.svg/7149880_1692776404597.svg",
 
   "icon_barcode": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149930_1692776404972.svg/7149930_1692776404972.svg",
 
-
-  "icon_copy":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149937_1692776405006.svg/7149937_1692776405006.svg",
-
+  "icon_copy": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149937_1692776405006.svg/7149937_1692776405006.svg",
 
   "icon_comment_more_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149923_1692776404949.svg/7149923_1692776404949.svg",
 
-
-  "icon_clipboard":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149916_1692776404913.svg/7149916_1692776404913.svg",
-
+  "icon_clipboard": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149916_1692776404913.svg/7149916_1692776404913.svg",
 
   "icon_add_circle": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149864_1692776404442.svg/7149864_1692776404442.svg",
 
-
-  "icon_business_card":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149898_1692776404630.svg/7149898_1692776404630.svg",
-
+  "icon_business_card": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149898_1692776404630.svg/7149898_1692776404630.svg",
 
   "icon_circle_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149924_1692776404957.svg/7149924_1692776404957.svg",
 
-
-  "icon_comment_question_filled":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149939_1692776405023.svg/7149939_1692776405023.svg",
-
+  "icon_comment_question_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149939_1692776405023.svg/7149939_1692776405023.svg",
 
   "icon_close_circle": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149885_1692776404628.svg/7149885_1692776404628.svg",
 
-
-  "icon_actual_image_output_vertical":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149859_1692776404409.svg/7149859_1692776404409.svg",
-
+  "icon_actual_image_output_vertical": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149859_1692776404409.svg/7149859_1692776404409.svg",
 
   "icon_approval_check": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149918_1692776404929.svg/7149918_1692776404929.svg",
 
-
-  "icon_align_stretch_vertical":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149875_1692776404584.svg/7149875_1692776404584.svg",
-
+  "icon_align_stretch_vertical": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149875_1692776404584.svg/7149875_1692776404584.svg",
 
   "icon_company": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149917_1692776404924.svg/7149917_1692776404924.svg",
 
-
   "icon_check_circle_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149911_1692776404827.svg/7149911_1692776404827.svg",
 
-
-  "icon_check":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149894_1692776404629.svg/7149894_1692776404629.svg",
-
+  "icon_check": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149894_1692776404629.svg/7149894_1692776404629.svg",
 
   "icon_actual_image_output_horizontal": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149863_1692776404420.svg/7149863_1692776404420.svg",
 
-
-  "icon_caret_right":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149878_1692776404587.svg/7149878_1692776404587.svg",
-
+  "icon_caret_right": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149878_1692776404587.svg/7149878_1692776404587.svg",
 
   "icon_clothing": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149921_1692776404948.svg/7149921_1692776404948.svg",
 
-
-  "icon_arrow_up_2px":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149934_1692776404985.svg/7149934_1692776404985.svg",
-
+  "icon_arrow_up_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149934_1692776404985.svg/7149934_1692776404985.svg",
 
   "icon_chevron_double_right": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149952_1692776405119.svg/7149952_1692776405119.svg",
 
-
-  "icon_banner_horizontal":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149892_1692776404628.svg/7149892_1692776404628.svg",
-
+  "icon_banner_horizontal": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149892_1692776404628.svg/7149892_1692776404628.svg",
 
   "icon_caret_left": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149928_1692776404962.svg/7149928_1692776404962.svg",
 
-
-  "icon_chevron_right_2px":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149903_1692776404689.svg/7149903_1692776404689.svg",
-
+  "icon_chevron_right_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149903_1692776404689.svg/7149903_1692776404689.svg",
 
   "icon_coupon_percent": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149957_1692776405130.svg/7149957_1692776405130.svg",
 
-
-  "icon_arrow_down_2px":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149887_1692776404628.svg/7149887_1692776404628.svg",
-
+  "icon_arrow_down_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149887_1692776404628.svg/7149887_1692776404628.svg",
 
   "icon_credit_card_cvc": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149938_1692776405020.svg/7149938_1692776405020.svg",
 
-
-  "icon_arrow_right_2px":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149956_1692776405125.svg/7149956_1692776405125.svg",
-
+  "icon_arrow_right_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149956_1692776405125.svg/7149956_1692776405125.svg",
 
   "icon_cart": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149910_1692776404816.svg/7149910_1692776404816.svg",
 
-
-  "icon_add_2px":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149862_1692776404411.svg/7149862_1692776404411.svg",
-
+  "icon_add_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149862_1692776404411.svg/7149862_1692776404411.svg",
 
   "icon_arrow_down_left": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149879_1692776404587.svg/7149879_1692776404587.svg",
 
-
-  "icon_circle_2px":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149909_1692776404813.svg/7149909_1692776404813.svg",
-
+  "icon_circle_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149909_1692776404813.svg/7149909_1692776404813.svg",
 
   "icon_billboard": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149927_1692776404960.svg/7149927_1692776404960.svg",
 
-
-  "icon_advertisement":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149868_1692776404487.svg/7149868_1692776404487.svg",
-
+  "icon_advertisement": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149868_1692776404487.svg/7149868_1692776404487.svg",
 
   "icon_chevron_up": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149920_1692776404943.svg/7149920_1692776404943.svg",
 
+  "icon_caret_down": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149893_1692776404628.svg/7149893_1692776404628.svg",
 
-  "icon_caret_down":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149893_1692776404628.svg/7149893_1692776404628.svg",
+  "icon_chevron_down": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149946_1692776405051.svg/7149946_1692776405051.svg",
 
-
-  "icon_chevron_down":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149946_1692776405051.svg/7149946_1692776405051.svg",
-
-
-  "icon_area_chart":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149897_1692776404629.svg/7149897_1692776404629.svg",
-
+  "icon_area_chart": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149897_1692776404629.svg/7149897_1692776404629.svg",
 
   "icon_coupon": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149954_1692776405120.svg/7149954_1692776405120.svg",
 
-
-  "icon_color_envelope":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149888_1692776404628.svg/7149888_1692776404628.svg",
-
+  "icon_color_envelope": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149888_1692776404628.svg/7149888_1692776404628.svg",
 
   "icon_checkbox_indeterminate_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149886_1692776404628.svg/7149886_1692776404628.svg",
 
-
-  "icon_arrow_right":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149895_1692776404628.svg/7149895_1692776404628.svg",
-
+  "icon_arrow_right": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149895_1692776404628.svg/7149895_1692776404628.svg",
 
   "icon_cardnews": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149949_1692776405112.svg/7149949_1692776405112.svg",
 
+  "icon_chevron_left_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149904_1692776404690.svg/7149904_1692776404690.svg",
 
-  "icon_chevron_left_2px":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149904_1692776404690.svg/7149904_1692776404690.svg",
-
-
-  "icon_arrow_down":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149890_1692776404628.svg/7149890_1692776404628.svg",
-
+  "icon_arrow_down": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149890_1692776404628.svg/7149890_1692776404628.svg",
 
   "icon_coloring_book": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149931_1692776404973.svg/7149931_1692776404973.svg",
 
+  "icon_chevron_left": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149950_1692776405118.svg/7149950_1692776405118.svg",
 
-  "icon_chevron_left":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149950_1692776405118.svg/7149950_1692776405118.svg",
-
-
-  "icon_align_bottom":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149865_1692776404468.svg/7149865_1692776404468.svg",
-
+  "icon_align_bottom": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149865_1692776404468.svg/7149865_1692776404468.svg",
 
   "icon_align_left": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149867_1692776404478.svg/7149867_1692776404478.svg",
 
+  "icon_chevron_right": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149912_1692776404854.svg/7149912_1692776404854.svg",
 
-  "icon_chevron_right":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149912_1692776404854.svg/7149912_1692776404854.svg",
-
-
-  "icon_animation":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149913_1692776404864.svg/7149913_1692776404864.svg",
-
+  "icon_animation": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149913_1692776404864.svg/7149913_1692776404864.svg",
 
   "icon_brush": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149884_1692776404628.svg/7149884_1692776404628.svg",
 
+  "icon_chevron_up_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149953_1692776405119.svg/7149953_1692776405119.svg",
 
-  "icon_chevron_up_2px":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149953_1692776405119.svg/7149953_1692776405119.svg",
-
-
-  "icon_box_tape":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149876_1692776404584.svg/7149876_1692776404584.svg",
-
+  "icon_box_tape": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149876_1692776404584.svg/7149876_1692776404584.svg",
 
   "icon_comment_warning_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149932_1692776404979.svg/7149932_1692776404979.svg",
 
-
-  "icon_align_stretch_horizontal":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149873_1692776404552.svg/7149873_1692776404552.svg",
-
+  "icon_align_stretch_horizontal": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149873_1692776404552.svg/7149873_1692776404552.svg",
 
   "icon_align_right": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149915_1692776404872.svg/7149915_1692776404872.svg",
 
-
-  "icon_add":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149861_1692776404411.svg/7149861_1692776404411.svg",
-
+  "icon_add": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149861_1692776404411.svg/7149861_1692776404411.svg",
 
   "icon_check_circle": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149900_1692776404650.svg/7149900_1692776404650.svg",
 
-
-  "icon_community":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149935_1692776404985.svg/7149935_1692776404985.svg",
-
+  "icon_community": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149935_1692776404985.svg/7149935_1692776404985.svg",
 
   "icon_approval_request": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149958_1692776405138.svg/7149958_1692776405138.svg",
 
-
-  "icon_booklet_vertical":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149906_1692776404693.svg/7149906_1692776404693.svg",
-
+  "icon_booklet_vertical": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149906_1692776404693.svg/7149906_1692776404693.svg",
 
   "icon_coaster": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149951_1692776405119.svg/7149951_1692776405119.svg",
 
-
-  "icon_arrow_up_right_2px":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149908_1692776404765.svg/7149908_1692776404765.svg",
-
+  "icon_arrow_up_right_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149908_1692776404765.svg/7149908_1692776404765.svg",
 
   "icon_comment_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149955_1692776405123.svg/7149955_1692776405123.svg",
 
+  "icon_align_center_horizontal": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149866_1692776404476.svg/7149866_1692776404476.svg",
 
-  "icon_align_center_horizontal":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149866_1692776404476.svg/7149866_1692776404476.svg",
+  "icon_chevron_down_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149922_1692776404948.svg/7149922_1692776404948.svg",
 
-
-  "icon_chevron_down_2px":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149922_1692776404948.svg/7149922_1692776404948.svg",
-
-
-  "icon_camera":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149882_1692776404598.svg/7149882_1692776404598.svg",
-
+  "icon_camera": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149882_1692776404598.svg/7149882_1692776404598.svg",
 
   "icon_courier_box": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149945_1692776405049.svg/7149945_1692776405049.svg",
 
-
-  "icon_document_etc":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150250_1692777267466.svg/7150250_1692777267466.svg",
-
+  "icon_document_etc": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150250_1692777267466.svg/7150250_1692777267466.svg",
 
   "icon_edit_underline": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150280_1692777267555.svg/7150280_1692777267555.svg",
 
-
-  "icon_hot_pack":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150327_1692777267925.svg/7150327_1692777267925.svg",
-
+  "icon_hot_pack": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150327_1692777267925.svg/7150327_1692777267925.svg",
 
   "icon_duplicate": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150269_1692777267549.svg/7150269_1692777267549.svg",
 
-
-  "icon_input":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150330_1692777267949.svg/7150330_1692777267949.svg",
-
+  "icon_input": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150330_1692777267949.svg/7150330_1692777267949.svg",
 
   "icon_eyedropper": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150287_1692777267565.svg/7150287_1692777267565.svg",
 
-
-  "icon_holder":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150315_1692777267894.svg/7150315_1692777267894.svg",
-
+  "icon_holder": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150315_1692777267894.svg/7150315_1692777267894.svg",
 
   "icon_devices": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150265_1692777267527.svg/7150265_1692777267527.svg",
 
-
-  "icon_home_filled":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150317_1692777267898.svg/7150317_1692777267898.svg",
-
+  "icon_home_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150317_1692777267898.svg/7150317_1692777267898.svg",
 
   "icon_document_check": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150259_1692777267479.svg/7150259_1692777267479.svg",
 
-
-  "icon_instagram":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150331_1692777267951.svg/7150331_1692777267951.svg",
-
+  "icon_instagram": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150331_1692777267951.svg/7150331_1692777267951.svg",
 
   "icon_facebook": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150276_1692777267554.svg/7150276_1692777267554.svg",
 
-
-  "icon_group":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150325_1692777267911.svg/7150325_1692777267911.svg",
-
+  "icon_group": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150325_1692777267911.svg/7150325_1692777267911.svg",
 
   "icon_layer": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150288_1692777267725.svg/7150288_1692777267725.svg",
 
+  "icon_fancy_banner": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150301_1692777267806.svg/7150301_1692777267806.svg",
 
-  "icon_fancy_banner":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150301_1692777267806.svg/7150301_1692777267806.svg",
+  "icon_download": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150264_1692777267520.svg/7150264_1692777267520.svg",
 
-
-  "icon_download":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150264_1692777267520.svg/7150264_1692777267520.svg",
-
-
-  "icon_fan":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150294_1692777267791.svg/7150294_1692777267791.svg",
-
+  "icon_fan": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150294_1692777267791.svg/7150294_1692777267791.svg",
 
   "icon_eye": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150310_1692777267836.svg/7150310_1692777267836.svg",
 
-
-  "icon_enter":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150270_1692777267549.svg/7150270_1692777267549.svg",
-
+  "icon_enter": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150270_1692777267549.svg/7150270_1692777267549.svg",
 
   "icon_document": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150262_1692777267507.svg/7150262_1692777267507.svg",
 
-
-  "icon_folder_off":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150277_1692777267554.svg/7150277_1692777267554.svg",
-
+  "icon_folder_off": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150277_1692777267554.svg/7150277_1692777267554.svg",
 
   "icon_horizontal_bar_chart": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150318_1692777267898.svg/7150318_1692777267898.svg",
 
-
-  "icon_hashtag":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150314_1692777267846.svg/7150314_1692777267846.svg",
-
+  "icon_hashtag": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150314_1692777267846.svg/7150314_1692777267846.svg",
 
   "icon_delete_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150239_1692777267353.svg/7150239_1692777267353.svg",
 
-
-  "icon_filter":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150292_1692777267768.svg/7150292_1692777267768.svg",
-
+  "icon_filter": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150292_1692777267768.svg/7150292_1692777267768.svg",
 
   "icon_folder_upload": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150286_1692777267564.svg/7150286_1692777267564.svg",
 
-
-  "icon_diagonal":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150255_1692777267467.svg/7150255_1692777267467.svg",
-
+  "icon_diagonal": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150255_1692777267467.svg/7150255_1692777267467.svg",
 
   "icon_detail_Page": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150273_1692777267554.svg/7150273_1692777267554.svg",
 
-
-  "icon_layer_send_to_back":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150297_1692777267800.svg/7150297_1692777267800.svg",
-
+  "icon_layer_send_to_back": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150297_1692777267800.svg/7150297_1692777267800.svg",
 
   "icon_cup_holder": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150242_1692777267357.svg/7150242_1692777267357.svg",
 
-
-  "icon_credit_card":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150245_1692777267360.svg/7150245_1692777267360.svg",
-
+  "icon_credit_card": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150245_1692777267360.svg/7150245_1692777267360.svg",
 
   "icon_hdmi": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150266_1692777267530.svg/7150266_1692777267530.svg",
 
-
-  "icon_drop":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150256_1692777267468.svg/7150256_1692777267468.svg",
-
+  "icon_drop": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150256_1692777267468.svg/7150256_1692777267468.svg",
 
   "icon_foot_mat": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150296_1692777267800.svg/7150296_1692777267800.svg",
 
-
-  "icon_key":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150303_1692777267815.svg/7150303_1692777267815.svg",
-
+  "icon_key": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150303_1692777267815.svg/7150303_1692777267815.svg",
 
   "icon_formed_paper_ncr_paper": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150335_1692777267968.svg/7150335_1692777267968.svg",
 
-
-  "icon_image":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150326_1692777267923.svg/7150326_1692777267923.svg",
-
+  "icon_image": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150326_1692777267923.svg/7150326_1692777267923.svg",
 
   "icon_drop_half_fill": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150260_1692777267483.svg/7150260_1692777267483.svg",
 
-
-  "icon_edit":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150304_1692777267818.svg/7150304_1692777267818.svg",
-
+  "icon_edit": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150304_1692777267818.svg/7150304_1692777267818.svg",
 
   "icon_delete": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150244_1692777267357.svg/7150244_1692777267357.svg",
 
-
-  "icon_information_circle_2px":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150293_1692777267779.svg/7150293_1692777267779.svg",
-
+  "icon_information_circle_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150293_1692777267779.svg/7150293_1692777267779.svg",
 
   "icon_devices_off": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150249_1692777267466.svg/7150249_1692777267466.svg",
 
-
-  "icon_folder_filled":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150275_1692777267554.svg/7150275_1692777267554.svg",
-
+  "icon_folder_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150275_1692777267554.svg/7150275_1692777267554.svg",
 
   "icon_keyboard": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150307_1692777267830.svg/7150307_1692777267830.svg",
 
-
-  "icon_drive_filled":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150258_1692777267470.svg/7150258_1692777267470.svg",
-
+  "icon_drive_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150258_1692777267470.svg/7150258_1692777267470.svg",
 
   "icon_information_circle_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150312_1692777267839.svg/7150312_1692777267839.svg",
 
-
-  "icon_interior_sticker":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150332_1692777267952.svg/7150332_1692777267952.svg",
-
+  "icon_interior_sticker": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150332_1692777267952.svg/7150332_1692777267952.svg",
 
   "icon_diary": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150261_1692777267507.svg/7150261_1692777267507.svg",
 
-
-  "icon_folder_add":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150309_1692777267834.svg/7150309_1692777267834.svg",
-
+  "icon_folder_add": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150309_1692777267834.svg/7150309_1692777267834.svg",
 
   "icon_exit": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150279_1692777267555.svg/7150279_1692777267555.svg",
 
-
-  "icon_inbox":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150329_1692777267944.svg/7150329_1692777267944.svg",
-
+  "icon_inbox": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150329_1692777267944.svg/7150329_1692777267944.svg",
 
   "icon_document_check_clock": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150267_1692777267530.svg/7150267_1692777267530.svg",
 
-
-  "icon_layer_forward":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150319_1692777267899.svg/7150319_1692777267899.svg",
-
+  "icon_layer_forward": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150319_1692777267899.svg/7150319_1692777267899.svg",
 
   "icon_image_lock": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150333_1692777267966.svg/7150333_1692777267966.svg",
 
-
-  "icon_folder":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150278_1692777267554.svg/7150278_1692777267554.svg",
-
+  "icon_folder": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150278_1692777267554.svg/7150278_1692777267554.svg",
 
   "icon_history": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150324_1692777267910.svg/7150324_1692777267910.svg",
 
-
-  "icon_double_cup":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150251_1692777267466.svg/7150251_1692777267466.svg",
-
+  "icon_double_cup": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150251_1692777267466.svg/7150251_1692777267466.svg",
 
   "icon_heart_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150271_1692777267553.svg/7150271_1692777267553.svg",
 
-
-  "icon_guidance_sticker":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150305_1692777267820.svg/7150305_1692777267820.svg",
-
+  "icon_guidance_sticker": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150305_1692777267820.svg/7150305_1692777267820.svg",
 
   "icon_heart": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150336_1692777267990.svg/7150336_1692777267990.svg",
 
+  "icon_crown": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150241_1692777267357.svg/7150241_1692777267357.svg",
 
-  "icon_crown":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150241_1692777267357.svg/7150241_1692777267357.svg",
+  "icon_information_circle": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150300_1692777267801.svg/7150300_1692777267801.svg",
 
-
-  "icon_information_circle":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150300_1692777267801.svg/7150300_1692777267801.svg",
-
-
-  "icon_cup_carrier":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150247_1692777267418.svg/7150247_1692777267418.svg",
-
+  "icon_cup_carrier": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150247_1692777267418.svg/7150247_1692777267418.svg",
 
   "icon_hand": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150295_1692777267791.svg/7150295_1692777267791.svg",
 
-
-  "icon_digital_business_card":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150253_1692777267467.svg/7150253_1692777267467.svg",
-
+  "icon_digital_business_card": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150253_1692777267467.svg/7150253_1692777267467.svg",
 
   "icon_doughnut_chart": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150254_1692777267467.svg/7150254_1692777267467.svg",
 
-
-  "icon_home":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150302_1692777267812.svg/7150302_1692777267812.svg",
-
+  "icon_home": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150302_1692777267812.svg/7150302_1692777267812.svg",
 
   "icon_crop": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150240_1692777267357.svg/7150240_1692777267357.svg",
 
-
-  "icon_information_circle_filled_2px":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150299_1692777267801.svg/7150299_1692777267801.svg",
-
+  "icon_information_circle_filled_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150299_1692777267801.svg/7150299_1692777267801.svg",
 
   "icon_drive": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150257_1692777267468.svg/7150257_1692777267468.svg",
 
-
-  "icon_event_popup":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150285_1692777267564.svg/7150285_1692777267564.svg",
-
+  "icon_event_popup": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150285_1692777267564.svg/7150285_1692777267564.svg",
 
   "icon_layer_backward": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150290_1692777267764.svg/7150290_1692777267764.svg",
 
-
-  "icon_infographic":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150323_1692777267907.svg/7150323_1692777267907.svg",
-
+  "icon_infographic": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150323_1692777267907.svg/7150323_1692777267907.svg",
 
   "icon_dashboard": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150246_1692777267405.svg/7150246_1692777267405.svg",
 
-
-  "icon_ice_cup":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150291_1692777267766.svg/7150291_1692777267766.svg",
-
+  "icon_ice_cup": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150291_1692777267766.svg/7150291_1692777267766.svg",
 
   "icon_document_blank": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150268_1692777267533.svg/7150268_1692777267533.svg",
 
-
-  "icon_document_zip":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150248_1692777267463.svg/7150248_1692777267463.svg",
-
+  "icon_document_zip": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150248_1692777267463.svg/7150248_1692777267463.svg",
 
   "icon_hangtag": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150298_1692777267801.svg/7150298_1692777267801.svg",
 
-
-  "icon_document_code":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150263_1692777267519.svg/7150263_1692777267519.svg",
-
+  "icon_document_code": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150263_1692777267519.svg/7150263_1692777267519.svg",
 
   "icon_layer_bring_to_front": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150306_1692777267824.svg/7150306_1692777267824.svg",
 
-
-  "icon_desk_calendar":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150243_1692777267357.svg/7150243_1692777267357.svg",
-
+  "icon_desk_calendar": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150243_1692777267357.svg/7150243_1692777267357.svg",
 
   "icon_grid": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150272_1692777267554.svg/7150272_1692777267554.svg",
 
-
-  "icon_eye_off":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150289_1692777267738.svg/7150289_1692777267738.svg",
-
+  "icon_eye_off": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150289_1692777267738.svg/7150289_1692777267738.svg",
 
   "icon_launch": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150328_1692777267938.svg/7150328_1692777267938.svg",
 
-
-  "icon_employee_id_card":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150281_1692777267556.svg/7150281_1692777267556.svg",
-
+  "icon_employee_id_card": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150281_1692777267556.svg/7150281_1692777267556.svg",
 
   "icon_hat": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150321_1692777267900.svg/7150321_1692777267900.svg",
 
-
-  "icon_interlock":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150283_1692777267563.svg/7150283_1692777267563.svg",
-
+  "icon_interlock": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150283_1692777267563.svg/7150283_1692777267563.svg",
 
   "icon_honeycomb_board_banner": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150338_1692777268021.svg/7150338_1692777268021.svg",
 
-
-  "icon_folder_move":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150274_1692777267554.svg/7150274_1692777267554.svg",
-
+  "icon_folder_move": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150274_1692777267554.svg/7150274_1692777267554.svg",
 
   "icon_image_dismount": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150334_1692777267967.svg/7150334_1692777267967.svg",
 
-
-  "icon_document_clock":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150252_1692777267467.svg/7150252_1692777267467.svg",
-
+  "icon_document_clock": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150252_1692777267467.svg/7150252_1692777267467.svg",
 
   "icon_folder_subtract": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150313_1692777267839.svg/7150313_1692777267839.svg",
 
-
-  "icon_lightbulb_off":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150691_1692778073061.svg/7150691_1692778073061.svg",
-
+  "icon_lightbulb_off": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150691_1692778073061.svg/7150691_1692778073061.svg",
 
   "icon_people_setting": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150756_1692778073636.svg/7150756_1692778073636.svg",
 
-
-  "icon_person_off":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150763_1692778073687.svg/7150763_1692778073687.svg",
-
+  "icon_person_off": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150763_1692778073687.svg/7150763_1692778073687.svg",
 
   "icon_location": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150705_1692778073081.svg/7150705_1692778073081.svg",
 
-
-  "icon_memo":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150725_1692778073479.svg/7150725_1692778073479.svg",
-
+  "icon_memo": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150725_1692778073479.svg/7150725_1692778073479.svg",
 
   "icon_people": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150765_1692778073779.svg/7150765_1692778073779.svg",
 
-
-  "icon_lock_open":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150710_1692778073133.svg/7150710_1692778073133.svg",
-
+  "icon_lock_open": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150710_1692778073133.svg/7150710_1692778073133.svg",
 
   "icon_more_4_vertical": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150746_1692778073612.svg/7150746_1692778073612.svg",
 
-
-  "icon_memo_paper":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150721_1692778073207.svg/7150721_1692778073207.svg",
-
+  "icon_memo_paper": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150721_1692778073207.svg/7150721_1692778073207.svg",
 
   "icon_paging": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150750_1692778073631.svg/7150750_1692778073631.svg",
 
-
-  "icon_leaflet":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150688_1692778073007.svg/7150688_1692778073007.svg",
-
+  "icon_leaflet": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150688_1692778073007.svg/7150688_1692778073007.svg",
 
   "icon_paper_shopping_bag": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150731_1692778073505.svg/7150731_1692778073505.svg",
 
-
-  "icon_postcard_envelope":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150777_1692778073854.svg/7150777_1692778073854.svg",
-
+  "icon_postcard_envelope": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150777_1692778073854.svg/7150777_1692778073854.svg",
 
   "icon_legend_left": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150689_1692778073040.svg/7150689_1692778073040.svg",
 
-
-  "icon_lock_text":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150716_1692778073134.svg/7150716_1692778073134.svg",
-
+  "icon_lock_text": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150716_1692778073134.svg/7150716_1692778073134.svg",
 
   "icon_papar_magnet_flyer": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150749_1692778073631.svg/7150749_1692778073631.svg",
 
-
-  "icon_more_horizontal":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150767_1692778073787.svg/7150767_1692778073787.svg",
-
+  "icon_more_horizontal": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150767_1692778073787.svg/7150767_1692778073787.svg",
 
   "icon_magnetic_sheet_for_car": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150718_1692778073135.svg/7150718_1692778073135.svg",
 
-
-  "icon_moon":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150759_1692778073637.svg/7150759_1692778073637.svg",
-
+  "icon_moon": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150759_1692778073637.svg/7150759_1692778073637.svg",
 
   "icon_link": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150701_1692778073069.svg/7150701_1692778073069.svg",
 
-
-  "icon_notification":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150747_1692778073630.svg/7150747_1692778073630.svg",
-
+  "icon_notification": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150747_1692778073630.svg/7150747_1692778073630.svg",
 
   "icon_led_light_panel": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150690_1692778073044.svg/7150690_1692778073044.svg",
 
-
-  "icon_more_vertical_2px":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150753_1692778073632.svg/7150753_1692778073632.svg",
-
+  "icon_more_vertical_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150753_1692778073632.svg/7150753_1692778073632.svg",
 
   "icon_monitor": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150772_1692778073837.svg/7150772_1692778073837.svg",
 
-
-  "icon_magnetic_opener":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150714_1692778073134.svg/7150714_1692778073134.svg",
-
+  "icon_magnetic_opener": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150714_1692778073134.svg/7150714_1692778073134.svg",
 
   "icon_minimize": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150726_1692778073494.svg/7150726_1692778073494.svg",
 
-
-  "icon_lock_edit":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150703_1692778073070.svg/7150703_1692778073070.svg",
-
+  "icon_lock_edit": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150703_1692778073070.svg/7150703_1692778073070.svg",
 
   "icon_menu": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150728_1692778073502.svg/7150728_1692778073502.svg",
 
-
-  "icon_pop":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150768_1692778073792.svg/7150768_1692778073792.svg",
-
+  "icon_pop": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150768_1692778073792.svg/7150768_1692778073792.svg",
 
   "icon_masking_tape": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150715_1692778073134.svg/7150715_1692778073134.svg",
 
-
-  "icon_person_filled":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150760_1692778073641.svg/7150760_1692778073641.svg",
-
+  "icon_person_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150760_1692778073641.svg/7150760_1692778073641.svg",
 
   "icon_list_bullet": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150697_1692778073068.svg/7150697_1692778073068.svg",
 
-
-  "icon_paper_container":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150738_1692778073548.svg/7150738_1692778073548.svg",
-
+  "icon_paper_container": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150738_1692778073548.svg/7150738_1692778073548.svg",
 
   "icon_leaflet_folded": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150686_1692778073003.svg/7150686_1692778073003.svg",
 
-
-  "icon_paper_cup":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150737_1692778073548.svg/7150737_1692778073548.svg",
-
+  "icon_paper_cup": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150737_1692778073548.svg/7150737_1692778073548.svg",
 
   "icon_picnic_mat": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150780_1692778073869.svg/7150780_1692778073869.svg",
 
-
-  "icon_legend_right":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150702_1692778073069.svg/7150702_1692778073069.svg",
-
+  "icon_legend_right": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150702_1692778073069.svg/7150702_1692778073069.svg",
 
   "icon_pie_chart": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150754_1692778073633.svg/7150754_1692778073633.svg",
 
-
-  "icon_megaphone":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150720_1692778073201.svg/7150720_1692778073201.svg",
-
+  "icon_megaphone": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150720_1692778073201.svg/7150720_1692778073201.svg",
 
   "icon_move": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150742_1692778073594.svg/7150742_1692778073594.svg",
 
-
-  "icon_play":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150779_1692778073869.svg/7150779_1692778073869.svg",
-
+  "icon_play": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150779_1692778073869.svg/7150779_1692778073869.svg",
 
   "icon_list": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150696_1692778073067.svg/7150696_1692778073067.svg",
 
-
-  "icon_pencil_ruler":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150729_1692778073504.svg/7150729_1692778073504.svg",
-
+  "icon_pencil_ruler": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150729_1692778073504.svg/7150729_1692778073504.svg",
 
   "icon_person_arrow_left": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150781_1692778073873.svg/7150781_1692778073873.svg",
 
-
-  "icon_list_check":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150699_1692778073068.svg/7150699_1692778073068.svg",
-
+  "icon_list_check": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150699_1692778073068.svg/7150699_1692778073068.svg",
 
   "icon_mug_cup": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150748_1692778073630.svg/7150748_1692778073630.svg",
 
-
-  "icon_legend_bottom":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150687_1692778073005.svg/7150687_1692778073005.svg",
-
+  "icon_legend_bottom": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150687_1692778073005.svg/7150687_1692778073005.svg",
 
   "icon_people_team": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150751_1692778073632.svg/7150751_1692778073632.svg",
 
-
-  "icon_legend_off":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150694_1692778073066.svg/7150694_1692778073066.svg",
-
+  "icon_legend_off": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150694_1692778073066.svg/7150694_1692778073066.svg",
 
   "icon_paper_placement": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150734_1692778073519.svg/7150734_1692778073519.svg",
 
-
-  "icon_line_chart":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150707_1692778073094.svg/7150707_1692778073094.svg",
-
+  "icon_line_chart": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150707_1692778073094.svg/7150707_1692778073094.svg",
 
   "icon_more_4_horizontal": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150739_1692778073549.svg/7150739_1692778073549.svg",
 
-
-  "icon_maximum":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150711_1692778073133.svg/7150711_1692778073133.svg",
-
+  "icon_maximum": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150711_1692778073133.svg/7150711_1692778073133.svg",
 
   "icon_people_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150741_1692778073549.svg/7150741_1692778073549.svg",
 
-
-  "icon_more_horizontal_2px":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150784_1692778073889.svg/7150784_1692778073889.svg",
-
+  "icon_more_horizontal_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150784_1692778073889.svg/7150784_1692778073889.svg",
 
   "icon_lock": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150708_1692778073111.svg/7150708_1692778073111.svg",
 
-
-  "icon_pen":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150743_1692778073594.svg/7150743_1692778073594.svg",
-
+  "icon_pen": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150743_1692778073594.svg/7150743_1692778073594.svg",
 
   "icon_poster": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150773_1692778073837.svg/7150773_1692778073837.svg",
 
-
-  "icon_lightbulb":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150704_1692778073072.svg/7150704_1692778073072.svg",
-
+  "icon_lightbulb": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150704_1692778073072.svg/7150704_1692778073072.svg",
 
   "icon_my_dashboard_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150755_1692778073636.svg/7150755_1692778073636.svg",
 
-
-  "icon_mobile":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150723_1692778073371.svg/7150723_1692778073371.svg",
-
+  "icon_mobile": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150723_1692778073371.svg/7150723_1692778073371.svg",
 
   "icon_plate_sticker": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150764_1692778073693.svg/7150764_1692778073693.svg",
 
-
-  "icon_lock_open_text":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150698_1692778073068.svg/7150698_1692778073068.svg",
-
+  "icon_lock_open_text": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150698_1692778073068.svg/7150698_1692778073068.svg",
 
   "icon_person_setting": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150761_1692778073649.svg/7150761_1692778073649.svg",
 
-
-  "icon_paint_bucket":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150785_1692778073893.svg/7150785_1692778073893.svg",
-
+  "icon_paint_bucket": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150785_1692778073893.svg/7150785_1692778073893.svg",
 
   "icon_person_check": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150744_1692778073595.svg/7150744_1692778073595.svg",
 
-
-  "icon_letter_spacing":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150692_1692778073065.svg/7150692_1692778073065.svg",
-
+  "icon_letter_spacing": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150692_1692778073065.svg/7150692_1692778073065.svg",
 
   "icon_memo_edit": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150727_1692778073501.svg/7150727_1692778073501.svg",
 
-
-  "icon_pinterest":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150769_1692778073817.svg/7150769_1692778073817.svg",
-
+  "icon_pinterest": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150769_1692778073817.svg/7150769_1692778073817.svg",
 
   "icon_mms_photo_text": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150724_1692778073459.svg/7150724_1692778073459.svg",
 
-
-  "icon_pivot":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150766_1692778073784.svg/7150766_1692778073784.svg",
-
+  "icon_pivot": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150766_1692778073784.svg/7150766_1692778073784.svg",
 
   "icon_magnet_flyer": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150713_1692778073133.svg/7150713_1692778073133.svg",
 
-
-  "icon_more_vertical":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150736_1692778073533.svg/7150736_1692778073533.svg",
-
+  "icon_more_vertical": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150736_1692778073533.svg/7150736_1692778073533.svg",
 
   "icon_person_add": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150775_1692778073845.svg/7150775_1692778073845.svg",
 
-
-  "icon_mail":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150719_1692778073136.svg/7150719_1692778073136.svg",
-
+  "icon_mail": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150719_1692778073136.svg/7150719_1692778073136.svg",
 
   "icon_payment_options": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150758_1692778073637.svg/7150758_1692778073637.svg",
 
-
-  "icon_main_menu":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150717_1692778073135.svg/7150717_1692778073135.svg",
-
+  "icon_main_menu": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150717_1692778073135.svg/7150717_1692778073135.svg",
 
   "icon_paint_roller": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150733_1692778073506.svg/7150733_1692778073506.svg",
 
-
-  "icon_post_card":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150783_1692778073888.svg/7150783_1692778073888.svg",
-
+  "icon_post_card": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150783_1692778073888.svg/7150783_1692778073888.svg",
 
   "icon_list_number": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150695_1692778073066.svg/7150695_1692778073066.svg",
 
-
-  "icon_mobi":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150722_1692778073320.svg/7150722_1692778073320.svg",
-
+  "icon_mobi": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150722_1692778073320.svg/7150722_1692778073320.svg",
 
   "icon_people_team_setting": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150735_1692778073524.svg/7150735_1692778073524.svg",
 
-
-  "icon_pencil_ruler_setting":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150740_1692778073549.svg/7150740_1692778073549.svg",
-
+  "icon_pencil_ruler_setting": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150740_1692778073549.svg/7150740_1692778073549.svg",
 
   "icon_mouse_pad": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150762_1692778073649.svg/7150762_1692778073649.svg",
 
-
-  "icon_plastic_bag":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150778_1692778073865.svg/7150778_1692778073865.svg",
-
+  "icon_plastic_bag": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150778_1692778073865.svg/7150778_1692778073865.svg",
 
   "icon_naver_blog": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150774_1692778073842.svg/7150774_1692778073842.svg",
 
-
-  "icon_legend_top":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150706_1692778073086.svg/7150706_1692778073086.svg",
-
+  "icon_legend_top": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150706_1692778073086.svg/7150706_1692778073086.svg",
 
   "icon_packaging_bag": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150732_1692778073505.svg/7150732_1692778073505.svg",
 
-
-  "icon_phone_accessories":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150770_1692778073832.svg/7150770_1692778073832.svg",
-
+  "icon_phone_accessories": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150770_1692778073832.svg/7150770_1692778073832.svg",
 
   "icon_lock_text_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150712_1692778073134.svg/7150712_1692778073134.svg",
 
-
-  "icon_person":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150757_1692778073637.svg/7150757_1692778073637.svg",
-
+  "icon_person": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150757_1692778073637.svg/7150757_1692778073637.svg",
 
   "icon_magic_wand": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150709_1692778073134.svg/7150709_1692778073134.svg",
 
-
-  "icon_lock_filled":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150700_1692778073068.svg/7150700_1692778073068.svg",
-
+  "icon_lock_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150700_1692778073068.svg/7150700_1692778073068.svg",
 
   "icon_pause": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150730_1692778073504.svg/7150730_1692778073504.svg",
 
-
-  "icon_paper_sun_hat":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150745_1692778073595.svg/7150745_1692778073595.svg",
-
+  "icon_paper_sun_hat": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150745_1692778073595.svg/7150745_1692778073595.svg",
 
   "icon_my_dashboard": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150771_1692778073835.svg/7150771_1692778073835.svg",
 
-
-  "icon_reflect_horizontal":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151149_1692779039027.svg/7151149_1692779039027.svg",
-
+  "icon_reflect_horizontal": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151149_1692779039027.svg/7151149_1692779039027.svg",
 
   "icon_table_border_all": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151194_1692779039417.svg/7151194_1692779039417.svg",
 
-
-  "icon_scroll":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151177_1692779039190.svg/7151177_1692779039190.svg",
-
+  "icon_scroll": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151177_1692779039190.svg/7151177_1692779039190.svg",
 
   "icon_table_border_none": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151221_1692779039529.svg/7151221_1692779039529.svg",
 
-
-  "icon_radial":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151147_1692779039002.svg/7151147_1692779039002.svg",
-
+  "icon_radial": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151147_1692779039002.svg/7151147_1692779039002.svg",
 
   "icon_table_row_delete_bottom": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151191_1692779039371.svg/7151191_1692779039371.svg",
 
-
-  "icon_table_border_up_diagonal":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151228_1692779040378.svg/7151228_1692779040378.svg",
-
+  "icon_table_border_up_diagonal": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151228_1692779040378.svg/7151228_1692779040378.svg",
 
   "icon_rectangle_horizontal": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151160_1692779039076.svg/7151160_1692779039076.svg",
 
-
-  "icon_table_border_left":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151196_1692779039428.svg/7151196_1692779039428.svg",
-
+  "icon_table_border_left": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151196_1692779039428.svg/7151196_1692779039428.svg",
 
   "icon_text_background_color": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151238_1692779040457.svg/7151238_1692779040457.svg",
 
-
-  "icon_sticker":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151240_1692779040458.svg/7151240_1692779040458.svg",
-
+  "icon_sticker": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151240_1692779040458.svg/7151240_1692779040458.svg",
 
   "icon_table_column_delete_right": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151190_1692779039365.svg/7151190_1692779039365.svg",
 
-
-  "icon_table_cell_merge":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151227_1692779040376.svg/7151227_1692779040376.svg",
-
+  "icon_table_cell_merge": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151227_1692779040376.svg/7151227_1692779040376.svg",
 
   "icon_share_folder": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151173_1692779039121.svg/7151173_1692779039121.svg",
 
-
-  "icon_table_cell_split":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151213_1692779039497.svg/7151213_1692779039497.svg",
-
+  "icon_table_cell_split": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151213_1692779039497.svg/7151213_1692779039497.svg",
 
   "icon_table_column_add_right": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151217_1692779039508.svg/7151217_1692779039508.svg",
 
-
-  "icon_table_border_cross":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151224_1692779040360.svg/7151224_1692779040360.svg",
-
+  "icon_table_border_cross": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151224_1692779040360.svg/7151224_1692779040360.svg",
 
   "icon_save": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151169_1692779039113.svg/7151169_1692779039113.svg",
 
-
-  "icon_setting":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151168_1692779039112.svg/7151168_1692779039112.svg",
-
+  "icon_setting": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151168_1692779039112.svg/7151168_1692779039112.svg",
 
   "icon_subtract": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151197_1692779039429.svg/7151197_1692779039429.svg",
 
-
-  "icon_table_row_move_down":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151192_1692779039412.svg/7151192_1692779039412.svg",
-
+  "icon_table_row_move_down": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151192_1692779039412.svg/7151192_1692779039412.svg",
 
   "icon_text_align_left": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151234_1692779040419.svg/7151234_1692779040419.svg",
 
-
-  "icon_table_border_outer":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151237_1692779040420.svg/7151237_1692779040420.svg",
-
+  "icon_table_border_outer": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151237_1692779040420.svg/7151237_1692779040420.svg",
 
   "icon_screen_fit": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151163_1692779039085.svg/7151163_1692779039085.svg",
 
-
-  "icon_subtract_circle":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151199_1692779039432.svg/7151199_1692779039432.svg",
-
+  "icon_subtract_circle": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151199_1692779039432.svg/7151199_1692779039432.svg",
 
   "icon_radio_button": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151155_1692779039063.svg/7151155_1692779039063.svg",
 
-
-  "icon_subtitle":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151187_1692779039359.svg/7151187_1692779039359.svg",
-
+  "icon_subtitle": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151187_1692779039359.svg/7151187_1692779039359.svg",
 
   "icon_shuffle": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151176_1692779039180.svg/7151176_1692779039180.svg",
 
-
-  "icon_table_border_bottom":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151219_1692779039513.svg/7151219_1692779039513.svg",
-
+  "icon_table_border_bottom": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151219_1692779039513.svg/7151219_1692779039513.svg",
 
   "icon_share": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151174_1692779039130.svg/7151174_1692779039130.svg",
 
-
-  "icon_table_border_down_diagonal":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151218_1692779039509.svg/7151218_1692779039509.svg",
-
+  "icon_table_border_down_diagonal": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151218_1692779039509.svg/7151218_1692779039509.svg",
 
   "icon_scissors": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151165_1692779039108.svg/7151165_1692779039108.svg",
 
-
-  "icon_table_border_top":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151222_1692779039534.svg/7151222_1692779039534.svg",
-
+  "icon_table_border_top": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151222_1692779039534.svg/7151222_1692779039534.svg",
 
   "icon_printer": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151144_1692779038971.svg/7151144_1692779038971.svg",
 
-
-  "icon_template_add":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151212_1692779039469.svg/7151212_1692779039469.svg",
-
+  "icon_template_add": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151212_1692779039469.svg/7151212_1692779039469.svg",
 
   "icon_question_circle_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151148_1692779039014.svg/7151148_1692779039014.svg",
 
-
-  "icon_table_border_inner_horizontal":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151208_1692779039466.svg/7151208_1692779039466.svg",
-
+  "icon_table_border_inner_horizontal": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151208_1692779039466.svg/7151208_1692779039466.svg",
 
   "icon_radio_button_checked": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151159_1692779039072.svg/7151159_1692779039072.svg",
 
-
-  "icon_text_align_right":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151203_1692779039441.svg/7151203_1692779039441.svg",
-
+  "icon_text_align_right": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151203_1692779039441.svg/7151203_1692779039441.svg",
 
   "icon_printer_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151139_1692779038960.svg/7151139_1692779038960.svg",
 
-
-  "icon_subtract_2px":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151195_1692779039421.svg/7151195_1692779039421.svg",
-
+  "icon_subtract_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151195_1692779039421.svg/7151195_1692779039421.svg",
 
   "icon_text_align_bottom": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151236_1692779040420.svg/7151236_1692779040420.svg",
 
-
-  "icon_rectangle_horizontal_long":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151154_1692779039063.svg/7151154_1692779039063.svg",
-
+  "icon_rectangle_horizontal_long": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151154_1692779039063.svg/7151154_1692779039063.svg",
 
   "icon_star_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151202_1692779039437.svg/7151202_1692779039437.svg",
 
-
-  "icon_ruler":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151170_1692779039114.svg/7151170_1692779039114.svg",
-
+  "icon_ruler": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151170_1692779039114.svg/7151170_1692779039114.svg",
 
   "icon_tag": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151200_1692779039435.svg/7151200_1692779039435.svg",
 
-
-  "icon_text_change_case":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151229_1692779040389.svg/7151229_1692779040389.svg",
-
+  "icon_text_change_case": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151229_1692779040389.svg/7151229_1692779040389.svg",
 
   "icon_Prohibited": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151143_1692779038963.svg/7151143_1692779038963.svg",
 
-
-  "icon_sign_board":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151181_1692779039312.svg/7151181_1692779039312.svg",
-
+  "icon_sign_board": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151181_1692779039312.svg/7151181_1692779039312.svg",
 
   "icon_table_border_right": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151226_1692779040371.svg/7151226_1692779040371.svg",
 
-
-  "icon_presentation":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151145_1692779038979.svg/7151145_1692779038979.svg",
-
+  "icon_presentation": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151145_1692779038979.svg/7151145_1692779038979.svg",
 
   "icon_sync": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151188_1692779039360.svg/7151188_1692779039360.svg",
 
-
-  "icon_table_border_inner_vertical":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151230_1692779040389.svg/7151230_1692779040389.svg",
-
+  "icon_table_border_inner_vertical": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151230_1692779040389.svg/7151230_1692779040389.svg",
 
   "icon_share_drive": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151178_1692779039235.svg/7151178_1692779039235.svg",
 
-
-  "icon_table_row_equally":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151220_1692779039519.svg/7151220_1692779039519.svg",
-
+  "icon_table_row_equally": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151220_1692779039519.svg/7151220_1692779039519.svg",
 
   "icon_rotate": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151156_1692779039071.svg/7151156_1692779039071.svg",
 
-
-  "icon_table_row_add_bottom":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151211_1692779039467.svg/7151211_1692779039467.svg",
-
+  "icon_table_row_add_bottom": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151211_1692779039467.svg/7151211_1692779039467.svg",
 
   "icon_repeat_all": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151158_1692779039072.svg/7151158_1692779039072.svg",
 
-
-  "icon_table_row_add_top":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151193_1692779039416.svg/7151193_1692779039416.svg",
-
+  "icon_table_row_add_top": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151193_1692779039416.svg/7151193_1692779039416.svg",
 
   "icon_repeat_all_off": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151162_1692779039077.svg/7151162_1692779039077.svg",
 
-
-  "icon_subtitle_fill":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151204_1692779039444.svg/7151204_1692779039444.svg",
-
+  "icon_subtitle_fill": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151204_1692779039444.svg/7151204_1692779039444.svg",
 
   "icon_rectangle_vertical_long": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151153_1692779039060.svg/7151153_1692779039060.svg",
 
-
-  "icon_smile":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151207_1692779039466.svg/7151207_1692779039466.svg",
-
+  "icon_smile": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151207_1692779039466.svg/7151207_1692779039466.svg",
 
   "icon_slide_show": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151166_1692779039108.svg/7151166_1692779039108.svg",
 
-
-  "icon_rectangle_horizontal_search":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151152_1692779039033.svg/7151152_1692779039033.svg",
-
+  "icon_rectangle_horizontal_search": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151152_1692779039033.svg/7151152_1692779039033.svg",
 
   "icon_text_bold": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151209_1692779039466.svg/7151209_1692779039466.svg",
 
-
-  "icon_promotional_logo":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151141_1692779038962.svg/7151141_1692779038962.svg",
-
+  "icon_promotional_logo": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151141_1692779038962.svg/7151141_1692779038962.svg",
 
   "icon_square_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151184_1692779039344.svg/7151184_1692779039344.svg",
 
-
-  "icon_table_column_move_left":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151235_1692779040419.svg/7151235_1692779040419.svg",
-
+  "icon_table_column_move_left": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151235_1692779040419.svg/7151235_1692779040419.svg",
 
   "icon_stand": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151172_1692779039119.svg/7151172_1692779039119.svg",
 
-
-  "icon_table_column_move_right":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151198_1692779039431.svg/7151198_1692779039431.svg",
-
+  "icon_table_column_move_right": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151198_1692779039431.svg/7151198_1692779039431.svg",
 
   "icon_Power": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151140_1692779038962.svg/7151140_1692779038962.svg",
 
-
-  "icon_test_scale":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151189_1692779039360.svg/7151189_1692779039360.svg",
-
+  "icon_test_scale": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151189_1692779039360.svg/7151189_1692779039360.svg",
 
   "icon_text_align_middle_center": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151231_1692779040392.svg/7151231_1692779040392.svg",
 
-
-  "icon_question_circle_filled_2px":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151151_1692779039031.svg/7151151_1692779039031.svg",
-
+  "icon_question_circle_filled_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151151_1692779039031.svg/7151151_1692779039031.svg",
 
   "icon_shape_laeflet": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151183_1692779039327.svg/7151183_1692779039327.svg",
 
-
-  "icon_text_align_center":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151225_1692779040368.svg/7151225_1692779040368.svg",
-
+  "icon_text_align_center": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151225_1692779040368.svg/7151225_1692779040368.svg",
 
   "icon_reflect_vertical": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151167_1692779039108.svg/7151167_1692779039108.svg",
 
-
-  "icon_text_align_top":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151223_1692779040319.svg/7151223_1692779040319.svg",
-
+  "icon_text_align_top": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151223_1692779040319.svg/7151223_1692779040319.svg",
 
   "icon_share_drive_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151180_1692779039289.svg/7151180_1692779039289.svg",
 
-
-  "icon_table_column_equally":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151214_1692779039498.svg/7151214_1692779039498.svg",
-
+  "icon_table_column_equally": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151214_1692779039498.svg/7151214_1692779039498.svg",
 
   "icon_text_align_justify": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151210_1692779039466.svg/7151210_1692779039466.svg",
 
-
-  "icon_replace":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151164_1692779039087.svg/7151164_1692779039087.svg",
-
+  "icon_replace": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151164_1692779039087.svg/7151164_1692779039087.svg",
 
   "icon_template_move": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151206_1692779039455.svg/7151206_1692779039455.svg",
 
-
-  "icon_share_folder_filled":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151171_1692779039117.svg/7151171_1692779039117.svg",
-
+  "icon_share_folder_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151171_1692779039117.svg/7151171_1692779039117.svg",
 
   "icon_square": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151175_1692779039130.svg/7151175_1692779039130.svg",
 
-
-  "icon_shoulder_sash":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151182_1692779039318.svg/7151182_1692779039318.svg",
-
+  "icon_shoulder_sash": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151182_1692779039318.svg/7151182_1692779039318.svg",
 
   "icon_sun": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151201_1692779039436.svg/7151201_1692779039436.svg",
 
-
-  "icon_table_column_add_left":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151215_1692779039498.svg/7151215_1692779039498.svg",
-
+  "icon_table_column_add_left": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151215_1692779039498.svg/7151215_1692779039498.svg",
 
   "icon_table_row_move_up": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151232_1692779040397.svg/7151232_1692779040397.svg",
 
-
-  "icon_question_circle":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151146_1692779038984.svg/7151146_1692779038984.svg",
-
+  "icon_question_circle": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151146_1692779038984.svg/7151146_1692779038984.svg",
 
   "icon_search": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151186_1692779039358.svg/7151186_1692779039358.svg",
 
+  "icon_star": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151233_1692779040417.svg/7151233_1692779040417.svg",
 
-  "icon_star":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151233_1692779040417.svg/7151233_1692779040417.svg",
-
-
-  "icon_rectangle_vertical":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151161_1692779039076.svg/7151161_1692779039076.svg",
-
+  "icon_rectangle_vertical": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151161_1692779039076.svg/7151161_1692779039076.svg",
 
   "icon_Slash": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151216_1692779039507.svg/7151216_1692779039507.svg",
 
-
-  "icon_question_circle_filled":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151150_1692779039029.svg/7151150_1692779039029.svg",
-
+  "icon_question_circle_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151150_1692779039029.svg/7151150_1692779039029.svg",
 
   "icon_redo": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151157_1692779039071.svg/7151157_1692779039071.svg",
 
-
-  "icon_stamp":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151185_1692779039351.svg/7151185_1692779039351.svg",
-
+  "icon_stamp": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151185_1692779039351.svg/7151185_1692779039351.svg",
 
   "icon_undo": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151368_1692779244734.svg/7151368_1692779244734.svg",
 
-
-  "icon_text_superscript":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151330_1692779244595.svg/7151330_1692779244595.svg",
-
+  "icon_text_superscript": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151330_1692779244595.svg/7151330_1692779244595.svg",
 
   "icon_wet_tissue": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151382_1692779244947.svg/7151382_1692779244947.svg",
 
-
-  "icon_volume_down":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151338_1692779244604.svg/7151338_1692779244604.svg",
-
+  "icon_volume_down": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151338_1692779244604.svg/7151338_1692779244604.svg",
 
   "icon_text_color": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151322_1692779244488.svg/7151322_1692779244488.svg",
 
-
-  "icon_text_curve_in":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151326_1692779244545.svg/7151326_1692779244545.svg",
-
+  "icon_text_curve_in": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151326_1692779244545.svg/7151326_1692779244545.svg",
 
   "icon_warning_alt": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151372_1692779244829.svg/7151372_1692779244829.svg",
 
-
-  "icon_triangle_filled":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151376_1692779244874.svg/7151376_1692779244874.svg",
-
+  "icon_triangle_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151376_1692779244874.svg/7151376_1692779244874.svg",
 
   "icon_youtube": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151363_1692779244685.svg/7151363_1692779244685.svg",
 
-
-  "icon_ticket":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151357_1692779244640.svg/7151357_1692779244640.svg",
-
+  "icon_ticket": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151357_1692779244640.svg/7151357_1692779244640.svg",
 
   "icon_warning_circle": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151351_1692779244635.svg/7151351_1692779244635.svg",
 
-
-  "icon_text_write_down":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151332_1692779244595.svg/7151332_1692779244595.svg",
-
+  "icon_text_write_down": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151332_1692779244595.svg/7151332_1692779244595.svg",
 
   "icon_upload": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151348_1692779244633.svg/7151348_1692779244633.svg",
 
-
-  "icon_warning_circle_filled":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151369_1692779244734.svg/7151369_1692779244734.svg",
-
+  "icon_warning_circle_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151369_1692779244734.svg/7151369_1692779244734.svg",
 
   "icon_text_underline": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151350_1692779244633.svg/7151350_1692779244633.svg",
 
-
-  "icon_usb_card":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151361_1692779244683.svg/7151361_1692779244683.svg",
-
+  "icon_usb_card": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151361_1692779244683.svg/7151361_1692779244683.svg",
 
   "icon_warning_alt_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151353_1692779244636.svg/7151353_1692779244636.svg",
 
-
-  "icon_text_strikethrough":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151328_1692779244572.svg/7151328_1692779244572.svg",
-
+  "icon_text_strikethrough": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151328_1692779244572.svg/7151328_1692779244572.svg",
 
   "icon_web_banner": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151346_1692779244632.svg/7151346_1692779244632.svg",
 
+  "icon_text_height": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151324_1692779244495.svg/7151324_1692779244495.svg",
 
-  "icon_text_height":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151324_1692779244495.svg/7151324_1692779244495.svg",
+  "icon_warning_alt_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151373_1692779244839.svg/7151373_1692779244839.svg",
 
-
-  "icon_warning_alt_filled":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151373_1692779244839.svg/7151373_1692779244839.svg",
-
-
-  "icon_work_complete":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151364_1692779244685.svg/7151364_1692779244685.svg",
-
+  "icon_work_complete": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151364_1692779244685.svg/7151364_1692779244685.svg",
 
   "icon_ungroup": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151339_1692779244608.svg/7151339_1692779244608.svg",
 
-
-  "icon_wobbler":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151340_1692779244609.svg/7151340_1692779244609.svg",
-
+  "icon_wobbler": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151340_1692779244609.svg/7151340_1692779244609.svg",
 
   "icon_transparent_poster_vertical": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151377_1692779244874.svg/7151377_1692779244874.svg",
 
-
-  "icon_text_width":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151327_1692779244568.svg/7151327_1692779244568.svg",
-
+  "icon_text_width": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151327_1692779244568.svg/7151327_1692779244568.svg",
 
   "icon_workspace": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151383_1692779244959.svg/7151383_1692779244959.svg",
 
-
-  "icon_text":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151362_1692779244685.svg/7151362_1692779244685.svg",
-
+  "icon_text": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151362_1692779244685.svg/7151362_1692779244685.svg",
 
   "icon_text_style_off": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151329_1692779244594.svg/7151329_1692779244594.svg",
 
-
-  "icon_thumb_up":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151378_1692779244881.svg/7151378_1692779244881.svg",
-
+  "icon_thumb_up": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151378_1692779244881.svg/7151378_1692779244881.svg",
 
   "icon_web_poster": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151366_1692779244688.svg/7151366_1692779244688.svg",
 
-
-  "icon_vest":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151344_1692779244632.svg/7151344_1692779244632.svg",
-
+  "icon_vest": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151344_1692779244632.svg/7151344_1692779244632.svg",
 
   "icon_uppercase": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151347_1692779244633.svg/7151347_1692779244633.svg",
 
-
-  "icon_text_subscript":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151335_1692779244603.svg/7151335_1692779244603.svg",
-
+  "icon_text_subscript": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151335_1692779244603.svg/7151335_1692779244603.svg",
 
   "icon_warning_circle_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151375_1692779244860.svg/7151375_1692779244860.svg",
 
-
-  "icon_toothbrush_sterilizer":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151356_1692779244640.svg/7151356_1692779244640.svg",
-
+  "icon_toothbrush_sterilizer": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151356_1692779244640.svg/7151356_1692779244640.svg",
 
   "icon_wind_banner": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151365_1692779244685.svg/7151365_1692779244685.svg",
 
-
-  "icon_text_outdent":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151358_1692779244640.svg/7151358_1692779244640.svg",
-
+  "icon_text_outdent": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151358_1692779244640.svg/7151358_1692779244640.svg",
 
   "icon_text_indent": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151323_1692779244494.svg/7151323_1692779244494.svg",
 
-
-  "icon_wall_calendar":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151371_1692779244826.svg/7151371_1692779244826.svg",
-
+  "icon_wall_calendar": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151371_1692779244826.svg/7151371_1692779244826.svg",
 
   "icon_text_italic": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151343_1692779244632.svg/7151343_1692779244632.svg",
 
-
-  "icon_text_line_spacing":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151337_1692779244604.svg/7151337_1692779244604.svg",
-
+  "icon_text_line_spacing": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151337_1692779244604.svg/7151337_1692779244604.svg",
 
   "icon_warning_circle_filled_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151381_1692779244947.svg/7151381_1692779244947.svg",
 
-
-  "icon_wallpapers":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151360_1692779244683.svg/7151360_1692779244683.svg",
-
+  "icon_wallpapers": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151360_1692779244683.svg/7151360_1692779244683.svg",
 
   "icon_vertical_bar_chart": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151341_1692779244619.svg/7151341_1692779244619.svg",
 
-
-  "icon_text_styles":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151336_1692779244603.svg/7151336_1692779244603.svg",
-
+  "icon_text_styles": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151336_1692779244603.svg/7151336_1692779244603.svg",
 
   "icon_umbrella": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151380_1692779244896.svg/7151380_1692779244896.svg",
 
-
-  "icon_transparent_poster_horizontal":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151345_1692779244632.svg/7151345_1692779244632.svg",
-
+  "icon_transparent_poster_horizontal": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151345_1692779244632.svg/7151345_1692779244632.svg",
 
   "icon_text_curve_out": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151325_1692779244544.svg/7151325_1692779244544.svg",
 
-
-  "icon_volume_up":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151354_1692779244636.svg/7151354_1692779244636.svg",
-
+  "icon_volume_up": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151354_1692779244636.svg/7151354_1692779244636.svg",
 
   "icon_video": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151359_1692779244640.svg/7151359_1692779244640.svg",
 
-
-  "icon_volume_off":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151379_1692779244886.svg/7151379_1692779244886.svg",
-
+  "icon_volume_off": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151379_1692779244886.svg/7151379_1692779244886.svg",
 
   "icon_thumb_up_filled": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151333_1692779244603.svg/7151333_1692779244603.svg",
 
-
-  "icon_warning_alt_filled_2px":  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151349_1692779244633.svg/7151349_1692779244633.svg",
-
+  "icon_warning_alt_filled_2px": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151349_1692779244633.svg/7151349_1692779244633.svg",
 
   "icon_order": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202311/06/10/8130960_1699234898016.svg",
 
-
   "icon_order_copy": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202311/06/10/8130959_1699234898015.svg",
-
 
   "icon_truck": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202311/06/10/8130963_1699234898026.svg",
 
-
   "icon_3d": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202311/06/10/8130964_1699234898036.svg",
 
-
   "icon_3d_ar": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202311/06/10/8130962_1699234898016.svg",
-
 
   "icon_image_fail": "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202311/06/10/8130961_1699234898017.svg"
 }

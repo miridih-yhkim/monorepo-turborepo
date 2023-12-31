@@ -60,7 +60,7 @@ export const iconButton = recipe({
   base: [
     atomic({
       all: "unset",
-      display: 'inline-flex',
+      display: "inline-flex",
       alignItems: "center",
       justifyContent: "center",
       position: "relative",
@@ -110,12 +110,12 @@ export const iconButton = recipe({
       [IconButtonShape.round]: {
         borderRadius: token(`c_iconButton_radius_round`),
       },
-      [IconButtonShape.square]: {}
+      [IconButtonShape.square]: {},
     },
     hasBorder: {
       true: {
         border: `${token(`b_border-width_10`)} solid`,
-      }
+      },
     },
     isActive: {
       true: {
@@ -124,36 +124,44 @@ export const iconButton = recipe({
             cursor: "pointer",
           },
         },
-      }
+      },
     },
     isDisabled: {
       true: {
-        cursor: atomic({cursor: 'not-allowed'})
-      }
+        cursor: atomic({ cursor: "not-allowed" }),
+      },
     },
     isLoading: {
       true: {
-        cursor: atomic({cursor: 'auto'})
-      }
+        cursor: atomic({ cursor: "auto" }),
+      },
     },
     stateLayer: {
       filled: {
         selectors: {
           "&:hover::before": {
-            opacity: token(`c_commonButton_opacity_interactionLayer_fill_hover`),
+            opacity: token(
+              `c_commonButton_opacity_interactionLayer_fill_hover`,
+            ),
           },
           "&:active::before": {
-            opacity: token(`c_commonButton_opacity_interactionLayer_fill_pressed`),
+            opacity: token(
+              `c_commonButton_opacity_interactionLayer_fill_pressed`,
+            ),
           },
         },
       },
       notFilled: {
         selectors: {
           "&:hover::before": {
-            opacity: token(`c_commonButton_opacity_interactionLayer_notFill_hover`),
+            opacity: token(
+              `c_commonButton_opacity_interactionLayer_notFill_hover`,
+            ),
           },
           "&:active::before": {
-            opacity: token(`c_commonButton_opacity_interactionLayer_notFill_pressed`),
+            opacity: token(
+              `c_commonButton_opacity_interactionLayer_notFill_pressed`,
+            ),
           },
         },
       },
@@ -162,48 +170,48 @@ export const iconButton = recipe({
   compoundVariants: [
     {
       variants: {
-        shape: 'square',
+        shape: "square",
         size: IconButtonSize.m,
       },
       style: {
         borderRadius: token(`c_iconButton_radius_square_${IconButtonSize.m}`),
-      }
+      },
     },
     {
       variants: {
-        shape: 'square',
+        shape: "square",
         size: IconButtonSize.s,
       },
       style: {
         borderRadius: token(`c_iconButton_radius_square_${IconButtonSize.s}`),
-      }
+      },
     },
     {
       variants: {
-        shape: 'square',
+        shape: "square",
         size: IconButtonSize.sm,
       },
       style: {
         borderRadius: token(`c_iconButton_radius_square_${IconButtonSize.sm}`),
-      }
+      },
     },
     {
       variants: {
-        shape: 'square',
+        shape: "square",
         size: IconButtonSize.xs,
       },
       style: {
         borderRadius: token(`c_iconButton_radius_square_${IconButtonSize.xs}`),
-      }
+      },
     },
     {
       variants: {
-        shape: 'square',
+        shape: "square",
         size: IconButtonSize.xxs,
       },
       style: {
         borderRadius: token(`c_iconButton_radius_square_${IconButtonSize.xxs}`),
-      }
+      },
     },
-  ]
+  ],
 });

@@ -5,17 +5,11 @@
       "outputs": ["dist/**", "storybook-static/**"],
       "dependsOn": ["^build"]
     },
-    "build:fast": {
-      "outputs": ["dist/**"],
-      "dependsOn": ["^build:fast"]
-    },
-    "start": {
-      "dependsOn": ["^build"]
-    },
     "lint": {},
     "dev": {
       "cache": false,
-      "persistent": true
+      "persistent": true,
+      "dependsOn": ["^build"]
     },
     "clean": {
       "cache": false
