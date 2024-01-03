@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_text_height = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151324_1692779244495.svg/7151324_1692779244495.svg",
-);
+export const icon_text_height = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151324_1692779244495.svg/7151324_1692779244495.svg",
+  description: "icon_text_height",
+});

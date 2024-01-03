@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_chevron_down_2px = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149922_1692776404948.svg/7149922_1692776404948.svg",
-);
+export const icon_chevron_down_2px = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149922_1692776404948.svg/7149922_1692776404948.svg",
+  description: "icon_chevron_down_2px",
+});

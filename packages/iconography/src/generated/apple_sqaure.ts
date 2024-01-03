@@ -4,6 +4,7 @@
  */
 import { BrandLogoUrl } from "../../types/Asset";
 
-export const apple_sqaure = new BrandLogoUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202309/22/13/7578469_1695356324378.svg",
-);
+export const apple_sqaure = new BrandLogoUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202309/22/13/7578469_1695356324378.svg",
+  description: 'apple_sqaure',
+});

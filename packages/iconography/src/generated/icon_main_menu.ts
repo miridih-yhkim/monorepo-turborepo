@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_main_menu = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150717_1692778073135.svg/7150717_1692778073135.svg",
-);
+export const icon_main_menu = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150717_1692778073135.svg/7150717_1692778073135.svg",
+  description: "icon_main_menu",
+});

@@ -63,3 +63,22 @@ export const semanticContentsColor = {
   inverse_weak: token(`s_color_contents_inverse_weak`),
   inverse_disabled: token(`s_color_contents_inverse_disabled`),
 } as const;
+
+export const semantic = {
+  semantic_info_default: token(`s_color_semantic_info_default`),
+  semantic_info_light: token(`s_color_semantic_info_light`),
+  semantic_info_surface: token(`s_color_semantic_info_surface`),
+  semantic_info_background: token(`s_color_semantic_info_background`),
+  semantic_positive_default: token(`s_color_semantic_positive_default`),
+  semantic_positive_light: token(`s_color_semantic_positive_light`),
+  semantic_positive_surface: token(`s_color_semantic_positive_surface`),
+  semantic_positive_background: token(`s_color_semantic_positive_background`),
+  semantic_warning_default: token(`s_color_semantic_warning_default`),
+  semantic_warning_light: token(`s_color_semantic_warning_light`),
+  semantic_warning_surface: token(`s_color_semantic_warning_surface`),
+  semantic_warning_background: token(`s_color_semantic_warning_background`),
+  semantic_negative_default: token(`s_color_semantic_negative_default`),
+  semantic_negative_light: token(`s_color_semantic_negative_light`),
+  semantic_negative_surface: token(`s_color_semantic_negative_surface`),
+  semantic_negative_background: token(`s_color_semantic_negative_background`),
+} as const;

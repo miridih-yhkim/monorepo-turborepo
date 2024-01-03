@@ -43,8 +43,10 @@ export const Icon = forwardRef(function Icon(
   return (
     <ElementType
       {...rest}
+      aria-label={iconName.description}
       className={icon}
       ref={ref}
+      role="img"
       style={{
         ...assignInlineVars({
           [iconUrlVar]: iconName.value ? `url(${iconName.value})` : undefined,

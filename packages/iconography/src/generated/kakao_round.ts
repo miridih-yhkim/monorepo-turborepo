@@ -4,6 +4,7 @@
  */
 import { BrandLogoUrl } from "../../types/Asset";
 
-export const kakao_round = new BrandLogoUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202309/22/13/7578465_1695356324355.svg",
-);
+export const kakao_round = new BrandLogoUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202309/22/13/7578465_1695356324355.svg",
+  description: 'kakao_round',
+});

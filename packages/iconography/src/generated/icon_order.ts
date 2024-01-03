@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_order = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202311/06/10/8130960_1699234898016.svg",
-);
+export const icon_order = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202311/06/10/8130960_1699234898016.svg",
+  description: "icon_order",
+});

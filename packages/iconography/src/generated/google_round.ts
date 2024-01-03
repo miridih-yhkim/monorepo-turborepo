@@ -4,6 +4,7 @@
  */
 import { BrandLogoUrl } from "../../types/Asset";
 
-export const google_round = new BrandLogoUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202309/22/13/7578501_1695356415026.svg",
-);
+export const google_round = new BrandLogoUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202309/22/13/7578501_1695356415026.svg",
+  description: 'google_round',
+});

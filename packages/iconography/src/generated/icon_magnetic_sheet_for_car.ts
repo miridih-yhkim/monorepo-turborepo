@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_magnetic_sheet_for_car = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150718_1692778073135.svg/7150718_1692778073135.svg",
-);
+export const icon_magnetic_sheet_for_car = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150718_1692778073135.svg/7150718_1692778073135.svg",
+  description: "icon_magnetic_sheet_for_car",
+});

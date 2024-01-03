@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_formed_paper_ncr_paper = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150335_1692777267968.svg/7150335_1692777267968.svg",
-);
+export const icon_formed_paper_ncr_paper = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150335_1692777267968.svg/7150335_1692777267968.svg",
+  description: "icon_formed_paper_ncr_paper",
+});

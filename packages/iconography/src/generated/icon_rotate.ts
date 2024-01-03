@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_rotate = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151156_1692779039071.svg/7151156_1692779039071.svg",
-);
+export const icon_rotate = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151156_1692779039071.svg/7151156_1692779039071.svg",
+  description: "icon_rotate",
+});

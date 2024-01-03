@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_checkbox_checked_filled = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149940_1692776405026.svg/7149940_1692776405026.svg",
-);
+export const icon_checkbox_checked_filled = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149940_1692776405026.svg/7149940_1692776405026.svg",
+  description: "icon_checkbox_checked_filled",
+});

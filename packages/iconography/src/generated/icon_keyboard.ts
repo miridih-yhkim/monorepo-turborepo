@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_keyboard = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150307_1692777267830.svg/7150307_1692777267830.svg",
-);
+export const icon_keyboard = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150307_1692777267830.svg/7150307_1692777267830.svg",
+  description: "icon_keyboard",
+});

@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_undo = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151368_1692779244734.svg/7151368_1692779244734.svg",
-);
+export const icon_undo = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151368_1692779244734.svg/7151368_1692779244734.svg",
+  description: "icon_undo",
+});

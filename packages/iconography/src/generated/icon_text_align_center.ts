@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_text_align_center = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151225_1692779040368.svg/7151225_1692779040368.svg",
-);
+export const icon_text_align_center = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151225_1692779040368.svg/7151225_1692779040368.svg",
+  description: "icon_text_align_center",
+});

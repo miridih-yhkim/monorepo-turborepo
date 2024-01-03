@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_letter_spacing = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150692_1692778073065.svg/7150692_1692778073065.svg",
-);
+export const icon_letter_spacing = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150692_1692778073065.svg/7150692_1692778073065.svg",
+  description: "icon_letter_spacing",
+});

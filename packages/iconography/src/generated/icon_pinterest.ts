@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_pinterest = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150769_1692778073817.svg/7150769_1692778073817.svg",
-);
+export const icon_pinterest = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150769_1692778073817.svg/7150769_1692778073817.svg",
+  description: "icon_pinterest",
+});

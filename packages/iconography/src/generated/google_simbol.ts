@@ -4,6 +4,7 @@
  */
 import { BrandLogoUrl } from "../../types/Asset";
 
-export const google_simbol = new BrandLogoUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202309/22/13/7579019_1695357828735.svg",
-);
+export const google_simbol = new BrandLogoUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202309/22/13/7579019_1695357828735.svg",
+  description: 'google_simbol',
+});

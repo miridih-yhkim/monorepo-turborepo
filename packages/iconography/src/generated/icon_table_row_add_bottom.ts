@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_table_row_add_bottom = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151211_1692779039467.svg/7151211_1692779039467.svg",
-);
+export const icon_table_row_add_bottom = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151211_1692779039467.svg/7151211_1692779039467.svg",
+  description: "icon_table_row_add_bottom",
+});

@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_shuffle = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151176_1692779039180.svg/7151176_1692779039180.svg",
-);
+export const icon_shuffle = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151176_1692779039180.svg/7151176_1692779039180.svg",
+  description: "icon_shuffle",
+});

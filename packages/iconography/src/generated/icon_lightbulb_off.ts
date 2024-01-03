@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_lightbulb_off = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150691_1692778073061.svg/7150691_1692778073061.svg",
-);
+export const icon_lightbulb_off = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150691_1692778073061.svg/7150691_1692778073061.svg",
+  description: "icon_lightbulb_off",
+});

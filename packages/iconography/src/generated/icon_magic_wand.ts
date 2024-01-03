@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_magic_wand = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150709_1692778073134.svg/7150709_1692778073134.svg",
-);
+export const icon_magic_wand = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150709_1692778073134.svg/7150709_1692778073134.svg",
+  description: "icon_magic_wand",
+});

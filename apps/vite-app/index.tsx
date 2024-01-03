@@ -55,19 +55,15 @@ const App = ({ theme }: { theme: "light" | "dark" }) => {
           >
             hello world
           </Typography>
-          <div>
-            <CommonButton
-              onClick={() => {
-                startTransition(() => {
-                  setCurrentTheme((prev) =>
-                    prev === "dark" ? "light" : "dark",
-                  );
-                });
-              }}
-            >
-              theme: {currentTheme}
-            </CommonButton>
-          </div>
+          <CommonButton
+            onClick={() => {
+              startTransition(() => {
+                setCurrentTheme((prev) => (prev === "dark" ? "light" : "dark"));
+              });
+            }}
+          >
+            theme: {currentTheme}
+          </CommonButton>
           <div
             style={{
               position: "absolute",

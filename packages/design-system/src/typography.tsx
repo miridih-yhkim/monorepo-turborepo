@@ -1,14 +1,11 @@
 import React from "react";
-import clsx from "clsx";
-import type { TypographyProps } from "./typography.css";
-import { typography } from "./typography.css";
+import type { Atomic } from "./sprinkles.css";
 import { atomic } from "./sprinkles.css";
 import type { PolymorphicForwardRefComponent } from "./polymorphic";
 
 export const Typography = React.forwardRef(function Typography(
   {
     as: ElementType = "span",
-    color,
     font,
     margin,
     marginBottom,
@@ -17,26 +14,50 @@ export const Typography = React.forwardRef(function Typography(
     marginTop,
     marginX,
     marginY,
+    textAlign,
+    color,
     wordBreak,
+    position,
     ...props
   },
   ref,
 ) {
-  const styles = clsx(
-    typography({
-      color,
-      font,
-      margin,
-      marginBottom,
-      marginLeft,
-      marginRight,
-      marginTop,
-      marginX,
-      marginY,
-      wordBreak,
-    }),
-    atomic({ all: "revert" }),
+  return (
+    <ElementType
+      {...props}
+      className={atomic({
+        all: "revert",
+        font,
+        margin,
+        marginBottom,
+        marginLeft,
+        marginRight,
+        marginTop,
+        marginX,
+        marginY,
+        textAlign,
+        color,
+        wordBreak,
+        position,
+      })}
+      ref={ref}
+    />
   );
-
-  return <ElementType {...props} className={styles} ref={ref} />;
-}) as PolymorphicForwardRefComponent<"span", TypographyProps>;
+}) as PolymorphicForwardRefComponent<
+  "span",
+  Pick<
+    Atomic,
+    | "font"
+    | "marginX"
+    | "marginY"
+    | "marginBottom"
+    | "marginTop"
+    | "marginLeft"
+    | "marginRight"
+    | "margin"
+    | "textAlign"
+    | "color"
+    | "wordBreak"
+    | "position"
+  >
+>;

@@ -4,6 +4,7 @@
  */
 import { BrandLogoUrl } from "../../types/Asset";
 
-export const apple_simbol = new BrandLogoUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202309/22/13/7578468_1695356324375.svg",
-);
+export const apple_simbol = new BrandLogoUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202309/22/13/7578468_1695356324375.svg",
+  description: 'apple_simbol',
+});

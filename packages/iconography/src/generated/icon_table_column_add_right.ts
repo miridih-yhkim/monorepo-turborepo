@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_table_column_add_right = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151217_1692779039508.svg/7151217_1692779039508.svg",
-);
+export const icon_table_column_add_right = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151217_1692779039508.svg/7151217_1692779039508.svg",
+  description: "icon_table_column_add_right",
+});

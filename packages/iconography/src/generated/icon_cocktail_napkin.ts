@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_cocktail_napkin = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149941_1692776405031.svg/7149941_1692776405031.svg",
-);
+export const icon_cocktail_napkin = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149941_1692776405031.svg/7149941_1692776405031.svg",
+  description: "icon_cocktail_napkin",
+});

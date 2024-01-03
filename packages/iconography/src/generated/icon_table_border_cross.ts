@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_table_border_cross = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151224_1692779040360.svg/7151224_1692779040360.svg",
-);
+export const icon_table_border_cross = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151224_1692779040360.svg/7151224_1692779040360.svg",
+  description: "icon_table_border_cross",
+});

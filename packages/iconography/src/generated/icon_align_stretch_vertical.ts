@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_align_stretch_vertical = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149875_1692776404584.svg/7149875_1692776404584.svg",
-);
+export const icon_align_stretch_vertical = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149875_1692776404584.svg/7149875_1692776404584.svg",
+  description: "icon_align_stretch_vertical",
+});

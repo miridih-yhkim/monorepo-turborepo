@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_text_background_color = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151238_1692779040457.svg/7151238_1692779040457.svg",
-);
+export const icon_text_background_color = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151238_1692779040457.svg/7151238_1692779040457.svg",
+  description: "icon_text_background_color",
+});

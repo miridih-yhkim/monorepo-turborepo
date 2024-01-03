@@ -1,10 +1,17 @@
 export type UploadedUrl = `//asset.bizhows.com/${string}.svg`;
 
+type AssetProperties = {
+  value: UploadedUrl;
+  description: string;
+};
+
 class Asset {
   rawValue: UploadedUrl;
+  description: string;
 
-  constructor(value: UploadedUrl) {
+  constructor({ value, description }: AssetProperties) {
     this.rawValue = value;
+    this.description = description;
   }
 
   /**
@@ -29,7 +36,7 @@ export class IconUrl extends Asset {
   // 더 좋게 타입에러 내는 방법 없나?
   private readonly __IconUrl__ = "IconUrl";
 
-  constructor(value: UploadedUrl) {
+  constructor(value: AssetProperties) {
     super(value);
   }
 }
@@ -37,7 +44,7 @@ export class IconUrl extends Asset {
 export class BrandLogoUrl extends Asset {
   private readonly __BrandLogoUrl__ = "BrandLogoUrl";
 
-  constructor(value: UploadedUrl) {
+  constructor(value: AssetProperties) {
     super(value);
   }
 }

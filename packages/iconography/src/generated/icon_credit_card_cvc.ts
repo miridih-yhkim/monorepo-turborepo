@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_credit_card_cvc = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149938_1692776405020.svg/7149938_1692776405020.svg",
-);
+export const icon_credit_card_cvc = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7149938_1692776405020.svg/7149938_1692776405020.svg",
+  description: "icon_credit_card_cvc",
+});

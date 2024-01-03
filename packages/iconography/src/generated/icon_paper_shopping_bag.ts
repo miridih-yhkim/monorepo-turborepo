@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_paper_shopping_bag = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150731_1692778073505.svg/7150731_1692778073505.svg",
-);
+export const icon_paper_shopping_bag = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150731_1692778073505.svg/7150731_1692778073505.svg",
+  description: "icon_paper_shopping_bag",
+});

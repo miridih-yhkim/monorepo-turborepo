@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_pivot = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150766_1692778073784.svg/7150766_1692778073784.svg",
-);
+export const icon_pivot = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7150766_1692778073784.svg/7150766_1692778073784.svg",
+  description: "icon_pivot",
+});

@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_drop_half_fill = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150260_1692777267483.svg/7150260_1692777267483.svg",
-);
+export const icon_drop_half_fill = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/16/7150260_1692777267483.svg/7150260_1692777267483.svg",
+  description: "icon_drop_half_fill",
+});

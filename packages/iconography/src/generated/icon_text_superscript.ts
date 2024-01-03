@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_text_superscript = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151330_1692779244595.svg/7151330_1692779244595.svg",
-);
+export const icon_text_superscript = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151330_1692779244595.svg/7151330_1692779244595.svg",
+  description: "icon_text_superscript",
+});

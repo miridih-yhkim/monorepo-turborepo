@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_radio_button_checked = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151159_1692779039072.svg/7151159_1692779039072.svg",
-);
+export const icon_radio_button_checked = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151159_1692779039072.svg/7151159_1692779039072.svg",
+  description: "icon_radio_button_checked",
+});

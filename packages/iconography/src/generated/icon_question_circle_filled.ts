@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_question_circle_filled = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151150_1692779039029.svg/7151150_1692779039029.svg",
-);
+export const icon_question_circle_filled = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151150_1692779039029.svg/7151150_1692779039029.svg",
+  description: "icon_question_circle_filled",
+});

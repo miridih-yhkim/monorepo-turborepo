@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_text_curve_out = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151325_1692779244544.svg/7151325_1692779244544.svg",
-);
+export const icon_text_curve_out = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151325_1692779244544.svg/7151325_1692779244544.svg",
+  description: "icon_text_curve_out",
+});

@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_table_border_inner_vertical = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151230_1692779040389.svg/7151230_1692779040389.svg",
-);
+export const icon_table_border_inner_vertical = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151230_1692779040389.svg/7151230_1692779040389.svg",
+  description: "icon_table_border_inner_vertical",
+});

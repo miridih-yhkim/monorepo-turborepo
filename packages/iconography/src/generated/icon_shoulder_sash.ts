@@ -4,6 +4,7 @@
  */
 import { IconUrl } from "../../types/Asset";
 
-export const icon_shoulder_sash = new IconUrl(
-  "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151182_1692779039318.svg/7151182_1692779039318.svg",
-);
+export const icon_shoulder_sash = new IconUrl({
+  value: "//asset.bizhows.com/bhfile01/__CM_FILE_DATA/202308/23/17/7151182_1692779039318.svg/7151182_1692779039318.svg",
+  description: "icon_shoulder_sash",
+});

@@ -11,9 +11,10 @@ Object.entries(rawIcons).forEach(([key, value]) => {
  */
 import { IconUrl } from "../../types/Asset";
 
-export const ${key} = new IconUrl(
-  "${value}",
-);
+export const ${key} = new IconUrl({
+  value: "${value}",
+  description: "${key}",
+});
 `);
 });
 
@@ -24,9 +25,10 @@ Object.entries(rawBrandIcons).forEach(([key, value]) => {
  */
 import { BrandLogoUrl } from "../../types/Asset";
 
-export const ${key} = new BrandLogoUrl(
-  "${value}",
-);
+export const ${key} = new BrandLogoUrl({
+  value: "${value}",
+  description: '${key}',
+});
 `);
 })
 

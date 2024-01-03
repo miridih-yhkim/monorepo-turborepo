@@ -15,8 +15,13 @@ import {
   verticalAlign,
   display,
 } from "./properties/base";
+import {
+  baseSpacing,
+  baseTypography,
+  semanticContentsColor,
+} from "./properties/semantic";
 
-const properties = defineProperties({
+const baseProperties = defineProperties({
   "@layer": atomicLayer,
   properties: {
     all,
@@ -41,4 +46,23 @@ const properties = defineProperties({
   },
 });
 
-export const atomic = createSprinkles(properties);
+const semantic = defineProperties({
+  "@layer": atomicLayer,
+  properties: {
+    font: baseTypography,
+    color: semanticContentsColor,
+    marginTop: baseSpacing,
+    marginBottom: baseSpacing,
+    marginLeft: baseSpacing,
+    marginRight: baseSpacing,
+  },
+  shorthands: {
+    marginX: ["marginLeft", "marginRight"],
+    marginY: ["marginTop", "marginBottom"],
+    margin: ["marginTop", "marginRight", "marginBottom", "marginLeft"],
+  },
+});
+
+export const atomic = createSprinkles(baseProperties, semantic);
+
+export type Atomic = Parameters<typeof atomic>[0];
