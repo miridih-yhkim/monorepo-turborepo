@@ -2,7 +2,7 @@ import { recipe } from "@vanilla-extract/recipes";
 import { style } from "@vanilla-extract/css";
 import { token } from "@cpdev2/primitive";
 import { atomic } from "./sprinkles.css";
-import { defaultFocusStyle } from "./utility.css";
+import { clickable, defaultFocusStyle } from "./utility.css";
 
 export const IconButtonSize = {
   xxs: "XXS",
@@ -66,10 +66,8 @@ export const iconButton = recipe({
       position: "relative",
       overflow: "hidden",
     }),
+    defaultFocusStyle,
     style({
-      selectors: {
-        [`&:where(:focus-visible)`]: defaultFocusStyle,
-      },
       ":before": {
         content: "''",
         position: "absolute",
@@ -118,13 +116,7 @@ export const iconButton = recipe({
       },
     },
     isActive: {
-      true: {
-        selectors: {
-          "&:where(a, button)": {
-            cursor: "pointer",
-          },
-        },
-      },
+      true: clickable,
     },
     isDisabled: {
       true: {

@@ -7,6 +7,7 @@ export const all = [
 ] satisfies CSSProperties["all"][];
 
 export const position = [
+  "static",
   "relative",
   "absolute",
   "fixed",
@@ -86,7 +87,7 @@ export const flex = [
   "1 1 100%",
 ] satisfies CSSProperties["flex"][];
 
-export const verticalAlign = [
+export const verticalAlign: CSSProperties["verticalAlign"][] = [
   "middle",
   "top",
-] satisfies CSSProperties["verticalAlign"][];
+];

@@ -20,6 +20,46 @@ export const baseSpacing = {
   "160": token(`b_spacing_160`),
 } as const;
 
+export const baseSize = {
+  static_10: token(`b_size_static_10`),
+  static_20: token(`b_size_static_20`),
+  static_30: token(`b_size_static_30`),
+  static_40: token(`b_size_static_40`),
+  static_50: token(`b_size_static_50`),
+  static_60: token(`b_size_static_60`),
+  static_70: token(`b_size_static_70`),
+  static_80: token(`b_size_static_80`),
+  static_90: token(`b_size_static_90`),
+  static_100: token(`b_size_static_100`),
+  static_110: token(`b_size_static_110`),
+  static_120: token(`b_size_static_120`),
+  static_130: token(`b_size_static_130`),
+  static_140: token(`b_size_static_140`),
+  static_150: token(`b_size_static_150`),
+  static_160: token(`b_size_static_160`),
+  static_170: token(`b_size_static_170`),
+  static_180: token(`b_size_static_180`),
+  static_190: token(`b_size_static_190`),
+  static_200: token(`b_size_static_200`),
+  static_210: token(`b_size_static_210`),
+} as const;
+
+export const baseRadius = {
+  "0": token(`b_radius_0`),
+  "10": token(`b_radius_10`),
+  "20": token(`b_radius_20`),
+  "30": token(`b_radius_30`),
+  "40": token(`b_radius_40`),
+  "50": token(`b_radius_50`),
+  "60": token(`b_radius_60`),
+  "70": token(`b_radius_70`),
+  "80": token(`b_radius_80`),
+  "90": token(`b_radius_90`),
+  "100": token(`b_radius_100`),
+  pill: token(`b_radius_pill`),
+  circle: token(`b_radius_circle`),
+} as const;
+
 export const baseTypography = {
   body_S: token(`b_typography_body_S`),
   body_M: token(`b_typography_body_M`),
@@ -49,6 +89,21 @@ export const baseTypography = {
   display_L: token(`s_typography_display_L`),
   display_XL: token(`s_typography_display_XL`),
   display_2XL: token(`s_typography_display_2XL`),
+} as const;
+
+export const colorStatic = {
+  black_lightness: token(`s_color_static_black_lightness`),
+  black_light: token(`s_color_static_black_light`),
+  black_medium: token(`s_color_static_black_medium`),
+  black_dark: token(`s_color_static_black_dark`),
+  black_darkness: token(`s_color_static_black_darkness`),
+  black_basic: token(`s_color_static_black_basic`),
+  white_lightness: token(`s_color_static_white_lightness`),
+  white_light: token(`s_color_static_white_light`),
+  white_medium: token(`s_color_static_white_medium`),
+  white_dark: token(`s_color_static_white_dark`),
+  white_darkness: token(`s_color_static_white_darkness`),
+  white_basic: token(`s_color_static_white_basic`),
 } as const;
 
 export const semanticContentsColor = {

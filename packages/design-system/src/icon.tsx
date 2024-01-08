@@ -53,7 +53,7 @@ export const Icon = forwardRef(function Icon(
         }),
         width,
         height,
-        background: fill,
+        background: fill ?? "currentColor",
       }}
     />
   );

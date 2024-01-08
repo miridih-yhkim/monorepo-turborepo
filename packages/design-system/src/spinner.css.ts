@@ -38,11 +38,11 @@ export const spinner = recipe({
       display: "inline-block",
       boxSizing: "border-box",
       verticalAlign: "middle",
+      borderRaidus: "circle",
       flex: "0 0 auto",
     }),
     {
       borderStyle: "solid",
-      borderRadius: "50%",
       animation: `${spinAnimation} ${token(
         `c_spinner_duration`,
       )} linear infinite`,

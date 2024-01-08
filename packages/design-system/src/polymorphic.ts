@@ -1,10 +1,11 @@
-import React from "react";
+import type React from "react";
+import type { ForwardRefExoticComponent } from "react";
 
 /**
  * @see https://github.com/radix-ui/primitives/blob/17ffcb7aaa42cbd36b3c210ba86d7d73d218e5be/packages/react/polymorphic/src/polymorphic.ts
  */
 export interface PolymorphicForwardRefComponent<DefaultAs, OwnProps = {}>
-  extends React.ForwardRefExoticComponent<
+  extends ForwardRefExoticComponent<
     Merge<
       DefaultAs extends React.ElementType
         ? React.ComponentPropsWithRef<DefaultAs>

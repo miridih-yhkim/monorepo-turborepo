@@ -2,12 +2,13 @@ import "@cpdev2/design-system/dist/index.css";
 import React from "react";
 import { createRoot } from "react-dom/client";
 import { token } from "@cpdev2/primitive";
-import { icon_add } from "@cpdev2/iconography";
+import { icon_approval_check } from "@cpdev2/iconography";
 import {
   CommonButton,
-  IconButton,
   Typography,
   Spinner,
+  View,
+  Icon,
 } from "@cpdev2/design-system";
 
 const App = ({ theme }: { theme: "light" | "dark" }) => {
@@ -46,7 +47,8 @@ const App = ({ theme }: { theme: "light" | "dark" }) => {
             </Typography>
           </div>
         )}
-        <div>
+        <View display="flex" flexDirection="column" alignItems="flex-start">
+          <Icon iconName={icon_approval_check} width={24} height={24} />
           <Typography
             as="h1"
             font="title_2XL"
@@ -64,21 +66,7 @@ const App = ({ theme }: { theme: "light" | "dark" }) => {
           >
             theme: {currentTheme}
           </CommonButton>
-          <div
-            style={{
-              position: "absolute",
-              left: 0,
-              bottom: 0,
-            }}
-          >
-            <IconButton
-              iconName={icon_add}
-              onClick={() => {
-                alert("hello world!");
-              }}
-            />
-          </div>
-        </div>
+        </View>
       </section>
     </div>
   );

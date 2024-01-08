@@ -9,7 +9,7 @@ export default defineConfig((options) => ({
   format: ["esm"],
   target: ["chrome91", "firefox90", "edge91", "safari15"],
   dts: false,
-  clean: true,
+  clean: false,
   outDir: "dist",
   bundle: true,
   external: ["react", "react-dom"],

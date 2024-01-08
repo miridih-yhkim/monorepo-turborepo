@@ -28,6 +28,10 @@ export const Typography = React.forwardRef(function Typography(
       className={atomic({
         all: "revert",
         font,
+        textAlign,
+        color,
+        wordBreak,
+        position,
         margin,
         marginBottom,
         marginLeft,
@@ -35,10 +39,6 @@ export const Typography = React.forwardRef(function Typography(
         marginTop,
         marginX,
         marginY,
-        textAlign,
-        color,
-        wordBreak,
-        position,
       })}
       ref={ref}
     />
